@@ -1,0 +1,1985 @@
+"country","disease","val","prevalence.ratio"
+"Maldives","Colon and rectum cancer",29.15221966037,0.11663129640816
+"Lao PDR","Gallbladder and biliary tract cancer",0.80262185397,0.147974873754189
+"Malaysia","Colon and rectum cancer",96.97038607469,0.387956113560215
+"Maldives","Pancreatic cancer",1.39778365168,0.14412427363315
+"Kazakhstan","Esophageal cancer",7.52557983759,0.923885114848044
+"Kazakhstan","Liver cancer",5.38644849767,0.590082682686957
+"Lao PDR","Stomach cancer",11.68443010325,0.777527450464295
+"Malaysia","Pancreatic cancer",2.06374378572,0.212790851949322
+"Cambodia","Esophageal cancer",4.25325616034,0.522155121728436
+"Cambodia","Liver cancer",7.29231399689,0.798869275022654
+"Fiji","Esophageal cancer",3.45165380936,0.423745630887823
+"Fiji","Liver cancer",4.92988589616,0.540066482804958
+"Indonesia","Colon and rectum cancer",48.98033870178,0.195959020199934
+"Cambodia","Stomach cancer",14.54230604581,0.967701637457279
+"Lao PDR","Colon and rectum cancer",44.43030927629,0.177755403570646
+"Indonesia","Pancreatic cancer",2.68800598384,0.277157991851511
+"Indonesia","Stomach cancer",10.37239144452,0.690219292152904
+"Kyrgyz Republic","Gallbladder and biliary tract cancer",1.17184091658,0.216045714221731
+"Indonesia","Gallbladder and biliary tract cancer",0.69056661062,0.127315879227445
+"Cambodia","Colon and rectum cancer",54.82691474628,0.219349820336703
+"Armenia","Esophageal cancer",1.49069515499,0.183006637919399
+"Armenia","Liver cancer",7.73144161927,0.846975481842978
+"Lao PDR","Pancreatic cancer",2.12277509714,0.218877519846599
+"China","Colon and rectum cancer",141.23191217604,0.565036254638519
+"Cambodia","Pancreatic cancer",2.34530223238,0.241822101929516
+"Tajikistan","Colon and rectum cancer",20.15201328013,0.0806235498180991
+"China","Pancreatic cancer",4.18134961252,0.431135372764154
+"Fiji","Colon and rectum cancer",34.29938599379,0.137223919861505
+"Tajikistan","Pancreatic cancer",1.13201707,0.116721309308479
+"China","Esophageal cancer",23.80867372205,2.9228949437496
+"China","Liver cancer",13.9458703982,1.52776298158873
+"Viet Nam","Esophageal cancer",3.66307473652,0.449700926265175
+"Viet Nam","Liver cancer",15.45922629811,1.69355034772902
+"Fiji","Pancreatic cancer",2.20118020476,0.226961803255752
+"Mongolia","Colon and rectum cancer",35.38874411764,0.141582190062456
+"Tajikistan","Stomach cancer",20.73232270694,1.37960943529855
+"Mongolia","Pancreatic cancer",5.82169811448,0.600270300094334
+"China","Stomach cancer",57.32466425921,3.81460624577554
+"Kazakhstan","Gallbladder and biliary tract cancer",1.2031715498,0.221821966727736
+"Philippines","Colon and rectum cancer",52.67988153005,0.210760036424616
+"Philippines","Pancreatic cancer",2.49668208797,0.257430749021201
+"Thailand","Esophageal cancer",7.87099341012,0.966290147418817
+"Thailand","Liver cancer",13.71879337765,1.50288680992931
+"Cambodia","Gallbladder and biliary tract cancer",0.97112095934,0.179040105433953
+"Mongolia","Stomach cancer",52.82448193629,3.51514660099653
+"Fiji","Stomach cancer",10.68095661218,0.710752419228228
+"Fiji","Gallbladder and biliary tract cancer",1.03036232594,0.189962102760963
+"Sri Lanka","Esophageal cancer",7.70821285937,0.946306235073153
+"Sri Lanka","Liver cancer",1.63024864907,0.178592907127235
+"Kyrgyz Republic","Stomach cancer",27.75304653259,1.84679572066588
+"Viet Nam","Colon and rectum cancer",78.72453236141,0.314958667827245
+"Viet Nam","Pancreatic cancer",1.60288014404,0.165271597076634
+"Thailand","Colon and rectum cancer",112.45680106767,0.449913682431082
+"Thailand","Pancreatic cancer",3.55876947381,0.366941668565254
+"Armenia","Colon and rectum cancer",82.34217891085,0.329432035959184
+"Kazakhstan","Colon and rectum cancer",67.47177391661,0.269938980788833
+"Kyrgyz Republic","Colon and rectum cancer",39.73658338765,0.158976890587608
+"Armenia","Pancreatic cancer",7.51165651351,0.774520461367646
+"Kyrgyz Republic","Pancreatic cancer",4.23616633518,0.436787478028675
+"Kazakhstan","Pancreatic cancer",4.46890076125,0.460784525115649
+"Sri Lanka","Colon and rectum cancer",36.0731222237,0.144320228766646
+"Sri Lanka","Pancreatic cancer",1.19585277938,0.123303354559324
+"Russian Federation","Colon and rectum cancer",147.58609723179,0.590457881166565
+"Estonia","Colon and rectum cancer",221.42441934959,0.88586795057234
+"Russian Federation","Pancreatic cancer",6.40631807401,0.660549962771339
+"Estonia","Pancreatic cancer",9.24132658032,0.952865258650383
+"Lithuania","Colon and rectum cancer",148.53831070572,0.594267467304966
+"Lithuania","Pancreatic cancer",7.84349752765,0.808736303760088
+"Latvia","Colon and rectum cancer",142.17521735522,0.568810200747531
+"Latvia","Pancreatic cancer",8.74280220466,0.901462837793578
+"Slovenia","Colon and rectum cancer",220.11909021036,0.880645630230308
+"Albania","Colon and rectum cancer",52.52142286405,0.210126079907479
+"Japan","Colon and rectum cancer",320.81837486172,1.28352020558308
+"Slovenia","Pancreatic cancer",8.07729864263,0.832843336225816
+"Albania","Pancreatic cancer",3.87185181935,0.399223320725144
+"Japan","Pancreatic cancer",12.26544183434,1.26467918911431
+"Moldova","Colon and rectum cancer",143.25590948277,0.573133800299217
+"Moldova","Pancreatic cancer",6.55519385589,0.675900416970194
+"Romania","Colon and rectum cancer",171.89452519637,0.687710285963975
+"Slovak Republic","Colon and rectum cancer",271.89855416725,1.08780330395013
+"Romania","Pancreatic cancer",7.17050212894,0.739344325336995
+"Slovak Republic","Pancreatic cancer",7.6345038032,0.787187140057937
+"Brunei Darussalam","Colon and rectum cancer",137.08640200929,0.548451026115474
+"Brunei Darussalam","Pancreatic cancer",4.97910228473,0.51339096667025
+"Cyprus","Colon and rectum cancer",220.91901965478,0.883845963145766
+"Cyprus","Pancreatic cancer",6.11530268651,0.630543615731083
+"Belgium","Colon and rectum cancer",242.17066029615,0.968868868011318
+"Austria","Colon and rectum cancer",200.4396227795,0.801912627192342
+"Belgium","Pancreatic cancer",7.87979976397,0.812479396215484
+"Serbia","Colon and rectum cancer",161.24099241337,0.645087962371332
+"Austria","Pancreatic cancer",10.31403585041,1.06347139157049
+"Serbia","Pancreatic cancer",6.45716672202,0.665792923261584
+"Ukraine","Colon and rectum cancer",114.37048184746,0.457569877151709
+"Ukraine","Pancreatic cancer",5.99026635534,0.617651226851036
+"Denmark","Colon and rectum cancer",273.59499134518,1.09459035720515
+"Denmark","Pancreatic cancer",9.33622823829,0.962650487219245
+"New Zealand","Colon and rectum cancer",328.53145885434,1.31437847283836
+"New Zealand","Pancreatic cancer",8.3852302924,0.864593904561923
+"Finland","Colon and rectum cancer",192.63174295628,0.770675103717613
+"Finland","Pancreatic cancer",13.01128010937,1.34158193404719
+"Norway","Colon and rectum cancer",312.49132753859,1.25020561287408
+"France","Colon and rectum cancer",283.27412541517,1.13331433664285
+"Norway","Pancreatic cancer",9.94556492459,1.02547867039728
+"France","Pancreatic cancer",12.79240782498,1.31901420050114
+"Iceland","Colon and rectum cancer",227.70069071282,0.910977862415451
+"Germany","Colon and rectum cancer",229.23621531352,0.917121141621382
+"Germany","Pancreatic cancer",14.45336295177,1.49027385924601
+"Spain","Colon and rectum cancer",305.89765416879,1.2238258489257
+"Iceland","Pancreatic cancer",8.64409891596,0.891285626340294
+"Spain","Pancreatic cancer",7.97974925002,0.82278510200883
+"Portugal","Colon and rectum cancer",272.17767898193,1.08892001785306
+"Portugal","Pancreatic cancer",5.46169139869,0.563150316358705
+"Ireland","Colon and rectum cancer",289.05801692476,1.1564543504362
+"Ireland","Pancreatic cancer",7.54724199683,0.778189650035875
+"Chile","Colon and rectum cancer",117.14042691594,0.468651787485809
+"Chile","Pancreatic cancer",5.4906619814,0.56613744829775
+"Greece","Colon and rectum cancer",197.10799541279,0.788583555737226
+"Greece","Pancreatic cancer",8.14751117395,0.84008289011835
+"Switzerland","Colon and rectum cancer",203.46907548234,0.814032767622669
+"Israel","Colon and rectum cancer",191.66819625046,0.766820175936509
+"Malta","Colon and rectum cancer",192.09757056578,0.768538003382363
+"Sweden","Colon and rectum cancer",221.16721206631,0.88483892364938
+"Switzerland","Pancreatic cancer",9.33654854208,0.962683513468351
+"Israel","Pancreatic cancer",8.17266678714,0.842676663821775
+"Sweden","Pancreatic cancer",5.99494408195,0.618133543230334
+"Malta","Pancreatic cancer",7.98311211975,0.823131844622808
+"Netherlands","Colon and rectum cancer",534.50282305631,2.13842231957466
+"Netherlands","Pancreatic cancer",6.69902278022,0.690730494015081
+"Argentina","Colon and rectum cancer",135.52867828877,0.542218933359361
+"Argentina","Pancreatic cancer",7.7377464014,0.797832395821009
+"Hungary","Colon and rectum cancer",248.56266335296,0.99444179562527
+"Hungary","Pancreatic cancer",8.89216596311,0.916863606838094
+"Czechia","Colon and rectum cancer",214.70375433532,0.858980122390775
+"Czechia","Pancreatic cancer",9.66621826795,0.996675476189296
+"Croatia","Colon and rectum cancer",261.96640682432,1.04806707685599
+"Croatia","Pancreatic cancer",9.22831267768,0.951523406309451
+"Bulgaria","Colon and rectum cancer",208.36839811231,0.833633825672874
+"Bulgaria","Pancreatic cancer",8.17757115141,0.843182348615839
+"Australia","Colon and rectum cancer",288.76614906594,1.15528665455744
+"Australia","Pancreatic cancer",10.02522029853,1.03369186769451
+"Poland","Colon and rectum cancer",146.608724727,0.58654763955768
+"Poland","Pancreatic cancer",6.52909746458,0.673209640441595
+"Singapore","Colon and rectum cancer",226.46415635785,0.906030774112963
+"Singapore","Pancreatic cancer",5.7816747222,0.596143522439039
+"Korea, Rep.","Colon and rectum cancer",221.23532997412,0.885111447662612
+"Korea, Rep.","Pancreatic cancer",8.04213311546,0.829217448876074
+"Luxembourg","Colon and rectum cancer",266.47031688712,1.06608618056919
+"Luxembourg","Pancreatic cancer",8.29079113092,0.854856363609523
+"Italy","Colon and rectum cancer",265.98993574998,1.06416428661232
+"Italy","Pancreatic cancer",9.28307516259,0.957169919166083
+"United Kingdom","Colon and rectum cancer",236.78670211358,0.947328895070798
+"United Kingdom","Pancreatic cancer",7.82929351184,0.807271739870799
+"Armenia","Gallbladder and biliary tract cancer",1.88921512621,0.348303959595247
+"Thailand","Stomach cancer",14.67991089312,0.976858399503441
+"Viet Nam","Gallbladder and biliary tract cancer",1.32555183033,0.244384530246104
+"China","Gallbladder and biliary tract cancer",3.27189641854,0.603221127203865
+"Sri Lanka","Gallbladder and biliary tract cancer",0.96288267968,0.177521260181222
+"Belize","Colon and rectum cancer",70.72272703247,0.282945293202853
+"Sri Lanka","Stomach cancer",7.38314599835,0.491303267149161
+"Thailand","Gallbladder and biliary tract cancer",8.13650869493,1.50008231270654
+"Philippines","Esophageal cancer",1.98494715667,0.243683964742129
+"Philippines","Liver cancer",7.13578141329,0.78172121041226
+"Belize","Pancreatic cancer",4.10968401404,0.423745994362854
+"Viet Nam","Stomach cancer",14.16075151184,0.94231151390061
+"Kazakhstan","Stomach cancer",18.72270651096,1.24588175294992
+"Maldives","Esophageal cancer",1.93650585248,0.237737021004795
+"Maldives","Liver cancer",4.85761023173,0.532148720669427
+"Bolivia","Colon and rectum cancer",59.0366686896,0.236192073368854
+"Philippines","Stomach cancer",6.40510060657,0.42622032059642
+"Maldives","Stomach cancer",5.00549785836,0.333085307004628
+"Armenia","Stomach cancer",18.42188868769,1.22586416432005
+"Philippines","Gallbladder and biliary tract cancer",0.51216694175,0.0944253363793381
+"Lao PDR","Esophageal cancer",3.615955625,0.443916302794602
+"Lao PDR","Liver cancer",7.73120841459,0.846949934389355
+"Bolivia","Pancreatic cancer",4.53683976531,0.467789657562103
+"United States","Colon and rectum cancer",249.95194736025,1
+"Canada","Colon and rectum cancer",304.64263618371,1.21880481188905
+"United States","Pancreatic cancer",9.69846103258,1
+"Haiti","Colon and rectum cancer",47.10406043917,0.18845246431019
+"Canada","Pancreatic cancer",11.43578822639,1.17913431708122
+"Haiti","Pancreatic cancer",2.79611258824,0.288304771122659
+"Dominican Republic","Colon and rectum cancer",59.1513066579,0.23665071339751
+"Dominican Republic","Pancreatic cancer",3.94589378554,0.406857724363131
+"Jamaica","Colon and rectum cancer",143.277713074,0.573221031430882
+"Jamaica","Pancreatic cancer",3.20574533819,0.330541652682931
+"Uruguay","Colon and rectum cancer",170.47675092694,0.682038098631957
+"Uruguay","Pancreatic cancer",9.55783017208,0.985499672574073
+"Maldives","Gallbladder and biliary tract cancer",0.68030698996,0.125424370711423
+"Luxembourg","Esophageal cancer",8.49824157565,1.04329487741375
+"Luxembourg","Liver cancer",6.39483608216,0.700551027701575
+"Tajikistan","Esophageal cancer",8.40337826946,1.03164889153284
+"Tajikistan","Liver cancer",5.10337060468,0.55907164404486
+"Mongolia","Esophageal cancer",22.78270082848,2.79694038542145
+"Mongolia","Liver cancer",82.76443695378,9.06680181011434
+"Malaysia","Esophageal cancer",3.7496457776,0.460328904169443
+"Malaysia","Liver cancer",6.59372228518,0.722338909694363
+"United Kingdom","Esophageal cancer",14.1400819586,1.73592088931522
+"United Kingdom","Liver cancer",10.67707303062,1.16966789896499
+"Indonesia","Esophageal cancer",2.29801194639,0.282117667585945
+"Indonesia","Liver cancer",4.35562574394,0.477156576337129
+"Lithuania","Esophageal cancer",6.00865349029,0.737658179138584
+"Lithuania","Liver cancer",4.03399290114,0.441921862628875
+"Austria","Gallbladder and biliary tract cancer",4.26456774362,0.786234352275614
+"Costa Rica","Colon and rectum cancer",172.89534770858,0.691714345635363
+"Mongolia","Gallbladder and biliary tract cancer",2.85949431381,0.527188872311308
+"Costa Rica","Pancreatic cancer",4.14589661729,0.427479844829268
+"Luxembourg","Gallbladder and biliary tract cancer",2.90875667704,0.536271096952633
+"United Kingdom","Gallbladder and biliary tract cancer",6.28428122834,1.15859755973476
+"Malaysia","Gallbladder and biliary tract cancer",1.17049981915,0.21579846363677
+"Tajikistan","Gallbladder and biliary tract cancer",0.11235652555,0.0207145402302265
+"Kyrgyz Republic","Esophageal cancer",4.79813858581,0.589048141681467
+"Kyrgyz Republic","Liver cancer",2.62020196095,0.287041786989667
+"Colombia","Colon and rectum cancer",91.41394496875,0.365726076288564
+"Colombia","Pancreatic cancer",3.19773008541,0.329715206842393
+"Malta","Gallbladder and biliary tract cancer",1.70781524787,0.31486028501348
+"Costa Rica","Gallbladder and biliary tract cancer",2.20589998987,0.406689365484908
+"Lithuania","Gallbladder and biliary tract cancer",2.47681089236,0.456635683786988
+"Peru","Colon and rectum cancer",68.72434725421,0.274950237355659
+"Peru","Pancreatic cancer",3.37579901119,0.348075741073733
+"Ecuador","Colon and rectum cancer",58.22499013878,0.232944734992849
+"Ecuador","Pancreatic cancer",3.31890330571,0.342209273673506
+"Korea, Rep.","Esophageal cancer",10.90080269217,1.33824762537056
+"Korea, Rep.","Liver cancer",38.95398220463,4.26738886124894
+"Brazil","Colon and rectum cancer",69.17272481053,0.276744092378816
+"Brazil","Pancreatic cancer",4.38226554392,0.451851642152159
+"Guatemala","Colon and rectum cancer",34.64668849271,0.138613396929349
+"Nicaragua","Colon and rectum cancer",48.8572339472,0.195466506515283
+"Guatemala","Pancreatic cancer",2.55762528535,0.263714549840246
+"Nicaragua","Pancreatic cancer",2.47734727337,0.255437152868672
+"Panama","Colon and rectum cancer",119.31997586026,0.477371659314528
+"El Salvador","Colon and rectum cancer",64.35274449714,0.257460464608383
+"Panama","Pancreatic cancer",2.68770507534,0.277126965434124
+"El Salvador","Pancreatic cancer",3.35518203082,0.345949941908201
+"Mexico","Colon and rectum cancer",60.76214909855,0.243095321881909
+"Mexico","Pancreatic cancer",3.60766042279,0.371982772387372
+"Italy","Esophageal cancer",3.7378396517,0.458879513661545
+"Italy","Liver cancer",9.50830723657,1.04163020297958
+"Honduras","Colon and rectum cancer",27.67659993531,0.110727682771042
+"Korea, Rep.","Gallbladder and biliary tract cancer",11.97778649733,2.20827708095684
+"Honduras","Pancreatic cancer",3.56074067933,0.367144917875982
+"El Salvador","Gallbladder and biliary tract cancer",2.63993400167,0.486709773331328
+"Italy","Gallbladder and biliary tract cancer",5.31531933527,0.979955509196958
+"Paraguay","Esophageal cancer",5.85289617069,0.718536480583439
+"Paraguay","Liver cancer",3.38136353407,0.370426648688272
+"Brazil","Esophageal cancer",7.87444745448,0.966714186527975
+"Brazil","Liver cancer",2.22715676726,0.243983886703395
+"Malta","Esophageal cancer",4.53114473761,0.556270382700576
+"Malta","Liver cancer",3.87891996836,0.424933702020537
+"Ukraine","Esophageal cancer",4.21454882114,0.51740317765316
+"Ukraine","Liver cancer",1.82063351078,0.199449471520159
+"Paraguay","Gallbladder and biliary tract cancer",2.019833977,0.372385421942632
+"Brazil","Gallbladder and biliary tract cancer",2.39385017948,0.441340684087871
+"Ecuador","Esophageal cancer",1.71553022837,0.210608733980354
+"Ecuador","Liver cancer",2.96911734053,0.325265288672151
+"Austria","Esophageal cancer",6.01239052508,0.738116959842617
+"Austria","Liver cancer",9.36981443188,1.02645838693795
+"Cyprus","Esophageal cancer",3.01908547197,0.370640958996232
+"Cyprus","Liver cancer",4.45675532774,0.488235270607302
+"Guatemala","Esophageal cancer",2.51906293869,0.309255207259401
+"Guatemala","Liver cancer",5.1180626251,0.560681147380365
+"Brunei Darussalam","Esophageal cancer",4.13281680395,0.507369267214635
+"Brunei Darussalam","Liver cancer",11.25351978186,1.23281734623902
+"Ecuador","Gallbladder and biliary tract cancer",3.29770942662,0.607980126218109
+"Belgium","Gallbladder and biliary tract cancer",2.48879323034,0.458844799999187
+"Ireland","Esophageal cancer",14.80371032156,1.81739186956676
+"Ireland","Liver cancer",4.97125938773,0.544598927681821
+"Switzerland","Esophageal cancer",8.7946089117,1.07967870114731
+"Switzerland","Liver cancer",8.08364341069,0.885559008264546
+"Latvia","Esophageal cancer",4.48224448176,0.550267095317136
+"Latvia","Liver cancer",3.46893333161,0.380019875297068
+"Finland","Esophageal cancer",9.11813142888,1.11939625705547
+"Finland","Liver cancer",9.57964469868,1.04944518552998
+"Israel","Esophageal cancer",3.07507877744,0.377515031502443
+"Israel","Liver cancer",3.2960695937,0.361082741070434
+"Chile","Esophageal cancer",4.89524407379,0.600969391186609
+"Chile","Liver cancer",3.27060602482,0.358293220100913
+"Canada","Gallbladder and biliary tract cancer",4.07096484397,0.750540875338187
+"Egypt, Arab Rep.","Colon and rectum cancer",52.49591950305,0.210024046851649
+"Egypt, Arab Rep.","Pancreatic cancer",4.00291545669,0.412737179975568
+"Spain","Esophageal cancer",6.49307469685,0.797128618854341
+"Spain","Liver cancer",9.833427488,1.07724696052263
+"Slovak Republic","Esophageal cancer",5.40957105578,0.664111242456564
+"Slovak Republic","Liver cancer",4.09949542545,0.449097630722514
+"Cyprus","Gallbladder and biliary tract cancer",3.57836820907,0.659723606283624
+"Bahrain","Colon and rectum cancer",91.50712331529,0.366098861327945
+"Bahrain","Pancreatic cancer",4.47326944192,0.461234976033101
+"Algeria","Colon and rectum cancer",31.44750279674,0.12581419400352
+"Guatemala","Gallbladder and biliary tract cancer",1.77803827399,0.32780690909722
+"Greece","Esophageal cancer",3.27808720848,0.402437558626489
+"Greece","Liver cancer",6.55250965711,0.71782408733179
+"Algeria","Pancreatic cancer",1.19236652483,0.122943889842367
+"Brunei Darussalam","Gallbladder and biliary tract cancer",2.93472269996,0.541058306451702
+"Germany","Esophageal cancer",11.21049307489,1.37626706586303
+"Germany","Liver cancer",9.19765571487,1.00759848739094
+"Switzerland","Gallbladder and biliary tract cancer",6.40851112539,1.18150112664057
+"Paraguay","Colon and rectum cancer",57.88202891795,0.231572626375765
+"Hungary","Esophageal cancer",5.34321005341,0.655964369575115
+"Hungary","Liver cancer",1.92115393653,0.210461432836981
+"Paraguay","Pancreatic cancer",3.98643043863,0.41103742390039
+"Denmark","Esophageal cancer",10.50587026426,1.28976336244449
+"Denmark","Liver cancer",5.07357392448,0.555807432942649
+"Australia","Esophageal cancer",8.14382047667,0.999784027113531
+"Australia","Liver cancer",9.53196594758,1.04422200269097
+"Ireland","Gallbladder and biliary tract cancer",2.60627997416,0.480505169697026
+"Finland","Gallbladder and biliary tract cancer",4.29716290803,0.792243739279855
+"Chile","Gallbladder and biliary tract cancer",12.59284893025,2.32167267990807
+"Spain","Gallbladder and biliary tract cancer",6.96972015547,1.28496807681771
+"Latvia","Gallbladder and biliary tract cancer",1.38124588781,0.254652530156271
+"Morocco","Colon and rectum cancer",45.90284029636,0.183646660012619
+"Uruguay","Esophageal cancer",8.01857371011,0.984407986223014
+"Uruguay","Liver cancer",2.3177691748,0.253910429684184
+"Bahrain","Gallbladder and biliary tract cancer",1.07148731618,0.197544085744364
+"Morocco","Pancreatic cancer",1.19404029457,0.12311647080489
+"Kuwait","Colon and rectum cancer",115.49155287473,0.462055023353247
+"Israel","Gallbladder and biliary tract cancer",1.86169264672,0.343229794958699
+"Kuwait","Pancreatic cancer",3.30763337618,0.341047240904374
+"Honduras","Esophageal cancer",1.92665059345,0.23652713056216
+"Honduras","Liver cancer",3.67325376774,0.402403074752426
+"Greece","Gallbladder and biliary tract cancer",3.00988696041,0.554915918097711
+"Slovak Republic","Gallbladder and biliary tract cancer",8.83996775852,1.62977510092441
+"Jordan","Colon and rectum cancer",89.66859919743,0.358743351049763
+"Jordan","Pancreatic cancer",2.63808449484,0.272010629931686
+"Iraq","Colon and rectum cancer",42.54942749093,0.170230430049839
+"Iraq","Pancreatic cancer",3.15620369234,0.325433456064563
+"Germany","Gallbladder and biliary tract cancer",5.90869944243,1.08935365978423
+"Hungary","Gallbladder and biliary tract cancer",3.8138012185,0.70312906512536
+"Denmark","Gallbladder and biliary tract cancer",4.2070595104,0.775631882995138
+"Uruguay","Gallbladder and biliary tract cancer",4.88256304581,0.900170667826854
+"Netherlands","Esophageal cancer",16.25546465918,1.99561790023668
+"Netherlands","Liver cancer",2.82077361826,0.309014309639359
+"Australia","Gallbladder and biliary tract cancer",9.94608014326,1.83370281567608
+"Bulgaria","Esophageal cancer",3.32239818707,0.40787743893168
+"Bulgaria","Liver cancer",3.34420997725,0.366356495508641
+"Honduras","Gallbladder and biliary tract cancer",3.16748809292,0.583971951859228
+"Portugal","Esophageal cancer",6.32785768455,0.776845591941093
+"Portugal","Liver cancer",5.82120104434,0.637709602197093
+"Canada","Esophageal cancer",9.66049578141,1.18598014333939
+"Canada","Liver cancer",7.7927774914,0.853694795317723
+"Netherlands","Gallbladder and biliary tract cancer",5.31394964148,0.979702986462055
+"Bulgaria","Gallbladder and biliary tract cancer",2.40481760309,0.443362686249999
+"Bahrain","Esophageal cancer",3.354296039,0.411793409691376
+"Bahrain","Liver cancer",4.3842235296,0.480289449154619
+"Belize","Esophageal cancer",3.41478966318,0.419219968193081
+"Belize","Liver cancer",2.40337051625,0.263288012933382
+"France","Esophageal cancer",14.86716931948,1.82518247505455
+"France","Liver cancer",11.57524605584,1.26806229528534
+"Ukraine","Gallbladder and biliary tract cancer",1.43701517245,0.264934399274519
+"Albania","Esophageal cancer",2.16154717491,0.265364437430607
+"Albania","Liver cancer",8.50062637158,0.931239278725344
+"Moldova","Esophageal cancer",3.08877143656,0.379196024092604
+"Moldova","Liver cancer",3.99617725376,0.437779177766449
+"Morocco","Esophageal cancer",1.23652582821,0.151803293761111
+"Morocco","Liver cancer",0.58318255473,0.0638873511071663
+"Peru","Esophageal cancer",1.46310258256,0.179619208977231
+"Peru","Liver cancer",2.15496355883,0.236075157580564
+"Nicaragua","Esophageal cancer",1.31808026979,0.161815403957478
+"Nicaragua","Liver cancer",3.30072129464,0.361592332533328
+"Poland","Esophageal cancer",4.31300767442,0.529490574363249
+"Poland","Liver cancer",1.52284315721,0.166826690333465
+"France","Gallbladder and biliary tract cancer",2.74885508024,0.506790939537859
+"Peru","Gallbladder and biliary tract cancer",3.97424291464,0.732708797615564
+"Portugal","Gallbladder and biliary tract cancer",4.22407137574,0.7787682648586
+"Moldova","Gallbladder and biliary tract cancer",0.92715414724,0.170934191749082
+"Russian Federation","Gallbladder and biliary tract cancer",2.7295306614,0.503228205201536
+"Turkiye","Colon and rectum cancer",120.36713139468,0.481561086704388
+"Tunisia","Colon and rectum cancer",67.63112215523,0.270576496280522
+"Qatar","Colon and rectum cancer",124.93236485117,0.499825531149425
+"Saudi Arabia","Colon and rectum cancer",82.86657059251,0.331530005937807
+"Turkiye","Pancreatic cancer",5.98792000813,0.61740929700236
+"Tunisia","Pancreatic cancer",2.09123966242,0.215625928216333
+"Morocco","Gallbladder and biliary tract cancer",0.6716225933,0.12382327737832
+"Nicaragua","Gallbladder and biliary tract cancer",2.45271552393,0.452193356327483
+"Qatar","Pancreatic cancer",4.63307204015,0.47771208489534
+"Saudi Arabia","Pancreatic cancer",2.43038187857,0.250594591286765
+"Haiti","Gallbladder and biliary tract cancer",1.44590316593,0.266573028607406
+"Bolivia","Esophageal cancer",2.83902343429,0.348535468130158
+"Bolivia","Liver cancer",3.43705627324,0.376527759828541
+"Estonia","Esophageal cancer",4.74500641127,0.58252531869156
+"Estonia","Liver cancer",4.53783780175,0.497117814235708
+"Belgium","Esophageal cancer",9.88711877779,1.21380173550322
+"Belgium","Liver cancer",5.83295276847,0.638996997575295
+"El Salvador","Esophageal cancer",2.42382519065,0.297563252661257
+"El Salvador","Liver cancer",1.85414021471,0.203120113827714
+"Poland","Gallbladder and biliary tract cancer",3.08092241242,0.568012324570147
+"Slovenia","Esophageal cancer",5.38486347496,0.661077992310245
+"Slovenia","Liver cancer",5.21536408353,0.571340472470833
+"Panama","Esophageal cancer",1.85328426104,0.22752024153734
+"Panama","Liver cancer",3.26979895332,0.358204805830166
+"Belize","Gallbladder and biliary tract cancer",1.11554502953,0.20566675838107
+"Iraq","Esophageal cancer",1.65103080838,0.202690400067073
+"Iraq","Liver cancer",4.98195934806,0.545771102872747
+"Albania","Gallbladder and biliary tract cancer",1.39292892765,0.256806466454962
+"Estonia","Gallbladder and biliary tract cancer",2.20966764916,0.40738398762238
+"Egypt, Arab Rep.","Esophageal cancer",1.55441882204,0.190829735769873
+"Egypt, Arab Rep.","Liver cancer",20.5822348038,2.25477331380274
+"Bolivia","Gallbladder and biliary tract cancer",5.42788385304,1.00070839578213
+"Panama","Gallbladder and biliary tract cancer",1.4645764179,0.270015710972922
+"Slovenia","Gallbladder and biliary tract cancer",6.150493045,1.13393178538334
+"New Zealand","Esophageal cancer",8.92082547582,1.0951738001768
+"New Zealand","Liver cancer",10.01307786868,1.09692756799957
+"Iraq","Gallbladder and biliary tract cancer",1.04707679339,0.193043655049315
+"Russian Federation","Esophageal cancer",5.61365513453,0.689165822516003
+"Russian Federation","Liver cancer",3.34881982712,0.366861502208186
+"Romania","Esophageal cancer",4.01753289111,0.493216325733328
+"Romania","Liver cancer",3.00476118795,0.329170053957844
+"Egypt, Arab Rep.","Gallbladder and biliary tract cancer",1.463456539,0.269809245203236
+"New Zealand","Gallbladder and biliary tract cancer",7.42861866296,1.36957261178762
+"Romania","Gallbladder and biliary tract cancer",1.77229566399,0.326748176413122
+"Croatia","Esophageal cancer",4.82844314263,0.592768510020158
+"Croatia","Liver cancer",3.68873899111,0.404099473066106
+"Jamaica","Esophageal cancer",4.42879064881,0.543704783620248
+"Jamaica","Liver cancer",1.68164103565,0.184222916836959
+"Mexico","Esophageal cancer",2.04768788637,0.251386391334563
+"Mexico","Liver cancer",3.31545826954,0.363206760609164
+"Jamaica","Gallbladder and biliary tract cancer",1.17201340314,0.216077514597978
+"Czechia","Esophageal cancer",5.79761890688,0.711750313626776
+"Czechia","Liver cancer",2.61338499233,0.286294991557979
+"Kuwait","Esophageal cancer",2.04160587971,0.250639727882331
+"Kuwait","Liver cancer",1.44933871028,0.158774315702456
+"Bangladesh","Esophageal cancer",4.64170927752,0.569843945782405
+"Bangladesh","Liver cancer",2.53897400177,0.278143305535169
+"Iceland","Esophageal cancer",9.29282800021,1.14084305123611
+"Iceland","Liver cancer",5.3590431378,0.587080439505928
+"Mexico","Gallbladder and biliary tract cancer",2.38139099868,0.439043655048802
+"Algeria","Esophageal cancer",1.05686278896,0.129746786324657
+"Algeria","Liver cancer",2.08030066452,0.22789587563056
+"Algeria","Gallbladder and biliary tract cancer",3.32623703782,0.613239601330764
+"Dominican Republic","Esophageal cancer",3.17687332294,0.390011937706323
+"Dominican Republic","Liver cancer",1.99830878657,0.218913707264854
+"Congo, Dem. Rep.","Colon and rectum cancer",18.47300622518,0.07390623045859
+"Congo, Dem. Rep.","Pancreatic cancer",1.37626401268,0.141905402110368
+"Pakistan","Gallbladder and biliary tract cancer",3.09157359281,0.569976022749741
+"Croatia","Gallbladder and biliary tract cancer",5.7575560303,1.06148819958266
+"Congo, Rep.","Colon and rectum cancer",31.47334290899,0.125917574323309
+"Nepal","Esophageal cancer",5.20641478373,0.639170565487396
+"Nepal","Liver cancer",3.24555020849,0.355548368215053
+"Congo, Rep.","Pancreatic cancer",2.6529981093,0.27354835992925
+"India","Colon and rectum cancer",18.22974612031,0.0729330029745113
+"Turkiye","Esophageal cancer",3.1201061231,0.383042857306456
+"Turkiye","Liver cancer",3.15608384482,0.345747373755071
+"India","Pancreatic cancer",0.99778024376,0.102880265271795
+"Kuwait","Gallbladder and biliary tract cancer",1.75670099572,0.32387307519693
+"Bangladesh","Gallbladder and biliary tract cancer",1.793816918,0.330715928885111
+"Nepal","Colon and rectum cancer",14.5057011025,0.0580339591497292
+"Iceland","Gallbladder and biliary tract cancer",3.58343413913,0.660657583295797
+"Nepal","Pancreatic cancer",0.86997688589,0.0897025706416194
+"Dominican Republic","Gallbladder and biliary tract cancer",0.81781173969,0.150775347489908
+"Czechia","Gallbladder and biliary tract cancer",6.28620843408,1.15895286780999
+"Bangladesh","Colon and rectum cancer",14.10714813365,0.0564394407910641
+"India","Esophageal cancer",4.38389215603,0.538192776565143
+"India","Liver cancer",2.96760317172,0.325099412252125
+"Saudi Arabia","Gallbladder and biliary tract cancer",2.04523640426,0.377068724481999
+"Bangladesh","Pancreatic cancer",0.78025113123,0.080451025024373
+"Nepal","Gallbladder and biliary tract cancer",2.00882502,0.370355762503156
+"Turkiye","Gallbladder and biliary tract cancer",1.73677113252,0.320198718491626
+"Japan","Esophageal cancer",22.10578478911,2.71383813067531
+"Japan","Liver cancer",23.18335403558,2.53972459755516
+"India","Gallbladder and biliary tract cancer",2.17413248778,0.400832569924206
+"United States","Esophageal cancer",8.14557970103,1
+"United States","Liver cancer",9.12829448433,1
+"Japan","Gallbladder and biliary tract cancer",10.09835803881,1.86177743420049
+"Saudi Arabia","Esophageal cancer",2.96552842486,0.364065976112788
+"Saudi Arabia","Liver cancer",6.12223587166,0.670687813826523
+"Tunisia","Esophageal cancer",1.17721400705,0.14452182045449
+"Tunisia","Liver cancer",2.20743066061,0.241822901791716
+"Norway","Esophageal cancer",6.73161797457,0.826413615929483
+"Norway","Liver cancer",5.15477165695,0.564702603076499
+"Singapore","Esophageal cancer",9.48058037758,1.16389265412027
+"Singapore","Liver cancer",16.08568257635,1.76217831315185
+"United States","Gallbladder and biliary tract cancer",5.42404148493,1
+"Colombia","Esophageal cancer",2.44851225004,0.300593983474299
+"Colombia","Liver cancer",2.404250539,0.26338441897632
+"Qatar","Esophageal cancer",4.82105882471,0.591861967061765
+"Qatar","Liver cancer",12.90948025097,1.4142269701236
+"Norway","Gallbladder and biliary tract cancer",4.70506210228,0.867445817911314
+"Tunisia","Gallbladder and biliary tract cancer",2.55681450838,0.471385500181697
+"Pakistan","Esophageal cancer",8.76520626928,1.07606905720555
+"Pakistan","Liver cancer",5.01287582039,0.549157986631052
+"Pakistan","Colon and rectum cancer",18.82971287003,0.0753333313418486
+"Pakistan","Pancreatic cancer",1.00353200166,0.103473324096353
+"Congo, Dem. Rep.","Esophageal cancer",10.8100704213,1.32710879005126
+"Congo, Dem. Rep.","Liver cancer",3.96680183566,0.434561115712204
+"Gabon","Esophageal cancer",14.44947083741,1.77390331538747
+"Gabon","Liver cancer",10.83077478878,1.18650584809381
+"Congo, Rep.","Esophageal cancer",14.52751305229,1.78348424366322
+"Congo, Rep.","Liver cancer",8.11014087451,0.888461791896854
+"Jordan","Esophageal cancer",1.55352955193,0.190720563661486
+"Jordan","Liver cancer",1.71867158231,0.188279594316369
+"Sweden","Esophageal cancer",5.65427627801,0.694152716631699
+"Sweden","Liver cancer",3.64635575927,0.399456411658222
+"Argentina","Esophageal cancer",6.79827605723,0.834596960161149
+"Argentina","Liver cancer",1.28718586026,0.141010553775367
+"Costa Rica","Esophageal cancer",2.33467474772,0.286618611984704
+"Costa Rica","Liver cancer",5.8443371667,0.640244152588704
+"Serbia","Esophageal cancer",3.42965957854,0.421045487788466
+"Serbia","Liver cancer",5.30966969065,0.581671603579923
+"Qatar","Gallbladder and biliary tract cancer",1.95147267566,0.359782033578083
+"Congo, Rep.","Gallbladder and biliary tract cancer",0.38559547612,0.0710900676536725
+"Colombia","Gallbladder and biliary tract cancer",2.61442908265,0.482007574963033
+"Gabon","Gallbladder and biliary tract cancer",0.39328562195,0.0725078565572725
+"Congo, Dem. Rep.","Gallbladder and biliary tract cancer",0.27954231863,0.0515376439149059
+"Gabon","Colon and rectum cancer",45.88585544323,0.183578707538917
+"Gabon","Pancreatic cancer",3.66684185964,0.378084919588994
+"Singapore","Gallbladder and biliary tract cancer",2.01716566944,0.371893481096049
+"Argentina","Gallbladder and biliary tract cancer",4.32238841434,0.796894423899448
+"Kenya","Colon and rectum cancer",23.01584574901,0.0920810819522754
+"Kenya","Pancreatic cancer",1.99410678117,0.205610640128491
+"Jordan","Gallbladder and biliary tract cancer",1.60896900145,0.296636558905442
+"Burundi","Esophageal cancer",14.47117411615,1.77656773947226
+"Burundi","Liver cancer",3.28631549654,0.360014184706839
+"Burundi","Gallbladder and biliary tract cancer",0.68349426036,0.126011989815897
+"Kenya","Esophageal cancer",15.92879999984,1.95551459619575
+"Kenya","Liver cancer",4.61519746897,0.505592526281074
+"Sweden","Gallbladder and biliary tract cancer",2.72893674314,0.503118707834739
+"Burundi","Colon and rectum cancer",22.18831113685,0.0887703071377575
+"Burundi","Pancreatic cancer",1.20354529638,0.124096523390354
+"Kenya","Gallbladder and biliary tract cancer",1.05563618656,0.194621702192535
+"Haiti","Esophageal cancer",5.47792437364,0.672502703883349
+"Haiti","Liver cancer",1.59160105732,0.174359083183853
+"Serbia","Gallbladder and biliary tract cancer",2.33442598549,0.430384979903989
+"Tanzania","Esophageal cancer",15.60257631975,1.91546542940057
+"Tanzania","Liver cancer",5.580376851,0.611327434777603
+"Mozambique","Colon and rectum cancer",10.10364747577,0.040422359507397
+"Mozambique","Pancreatic cancer",0.55624164538,0.0573535990412726
+"Mozambique","Esophageal cancer",12.11894915105,1.48779455801256
+"Mozambique","Liver cancer",24.43346130422,2.67667321055028
+"Tanzania","Gallbladder and biliary tract cancer",0.73805604111,0.136071238238239
+"Rwanda","Esophageal cancer",14.84870078137,1.82291516704359
+"Rwanda","Liver cancer",4.77308351257,0.522888861743414
+"Rwanda","Colon and rectum cancer",25.75977648926,0.103058914968696
+"Rwanda","Pancreatic cancer",1.67911951212,0.173132572939082
+"Mozambique","Gallbladder and biliary tract cancer",0.83963320772,0.154798448731045
+"Rwanda","Gallbladder and biliary tract cancer",0.83019969935,0.153059245888256
+"Mauritius","Esophageal cancer",4.25775812768,0.522707810119593
+"Mauritius","Liver cancer",1.23389457227,0.135172520385725
+"Mauritius","Colon and rectum cancer",75.03571220265,0.300200550526229
+"Mauritius","Pancreatic cancer",3.36805978128,0.347277755714612
+"Mauritius","Gallbladder and biliary tract cancer",0.72226933568,0.133160732211716
+"Zambia","Colon and rectum cancer",39.45175559685,0.157837360394673
+"Zambia","Pancreatic cancer",2.23927154416,0.230889368595453
+"Cote d'Ivoire","Gallbladder and biliary tract cancer",0.04247979511,0.00783176073192372
+"Gambia, The","Colon and rectum cancer",8.94990953172,0.0358065205182047
+"Uganda","Esophageal cancer",20.48559246227,2.51493364673353
+"Uganda","Liver cancer",9.17592480817,1.00521787765741
+"Cameroon","Esophageal cancer",8.4448800234,1.03674389464658
+"Cameroon","Liver cancer",14.34083541185,1.57103119717139
+"Zambia","Gallbladder and biliary tract cancer",0.84821063945,0.156379821542045
+"Uganda","Colon and rectum cancer",31.65102264992,0.12662842992098
+"Uganda","Gallbladder and biliary tract cancer",0.71447017907,0.131722845604161
+"Tanzania","Colon and rectum cancer",27.26442592453,0.109078669770211
+"Uganda","Pancreatic cancer",2.6503841278,0.273278834538446
+"Gambia, The","Pancreatic cancer",1.35756381724,0.139977240995199
+"Cote d'Ivoire","Colon and rectum cancer",12.35656998049,0.0494357820012531
+"Cameroon","Gallbladder and biliary tract cancer",0.04541288579,0.00837251815204103
+"Tanzania","Pancreatic cancer",1.6912550213,0.174383854883633
+"Cote d'Ivoire","Pancreatic cancer",1.25332036111,0.129228787629267
+"Cameroon","Colon and rectum cancer",21.33957370482,0.0853747047390023
+"Zimbabwe","Esophageal cancer",21.84642932307,2.68199810509589
+"Zimbabwe","Liver cancer",15.88858650249,1.74058653889453
+"Cameroon","Pancreatic cancer",2.69232297224,0.277603112823333
+"Benin","Colon and rectum cancer",15.45303249722,0.0618240132170201
+"Zimbabwe","Gallbladder and biliary tract cancer",1.11076238385,0.204785008915605
+"Zambia","Esophageal cancer",22.84420982777,2.8044915974343
+"Zambia","Liver cancer",5.98415063181,0.655560646305028
+"Gambia, The","Esophageal cancer",2.50022438919,0.306942474440935
+"Gambia, The","Liver cancer",33.39779860601,3.65871178491689
+"South Africa","Esophageal cancer",15.74458742637,1.93289956077394
+"South Africa","Liver cancer",6.63201779198,0.726534162911242
+"Botswana","Esophageal cancer",12.56371691304,1.54239690410878
+"Botswana","Liver cancer",6.73961762458,0.738321669633851
+"Benin","Pancreatic cancer",1.84456653989,0.19019167409072
+"Cote d'Ivoire","Esophageal cancer",1.89020976736,0.23205343716924
+"Cote d'Ivoire","Liver cancer",5.50976725346,0.603592189419205
+"Gambia, The","Gallbladder and biliary tract cancer",3.298613e-05,6.08146712956524e-06
+"South Africa","Gallbladder and biliary tract cancer",0.83209033312,0.153407811395222
+"Zimbabwe","Colon and rectum cancer",39.98866984119,0.159985430253741
+"Lesotho","Esophageal cancer",22.51111773076,2.76359922276784
+"Lesotho","Liver cancer",16.90749924166,1.85220790923037
+"Zimbabwe","Pancreatic cancer",5.30094663944,0.546576062081659
+"Lesotho","Colon and rectum cancer",36.45689328572,0.145855608130852
+"Lesotho","Pancreatic cancer",4.19894383225,0.432949497672312
+"South Africa","Colon and rectum cancer",44.413938569,0.177689908152575
+"South Africa","Pancreatic cancer",4.32240758298,0.445679739131781
+"Botswana","Colon and rectum cancer",32.47394471974,0.129920751019139
+"Botswana","Pancreatic cancer",3.51430126971,0.362356590174918
+"Namibia","Colon and rectum cancer",22.72017518157,0.0908981723147927
+"Namibia","Pancreatic cancer",1.07882193091,0.111236404135246
+"Botswana","Gallbladder and biliary tract cancer",0.66157755319,0.12197132987056
+"Lesotho","Gallbladder and biliary tract cancer",0.88049543921,0.162331988362615
+"Ghana","Esophageal cancer",4.71669998332,0.579050252583445
+"Ghana","Liver cancer",9.1433146187,1.0016454480512
+"Namibia","Esophageal cancer",3.35034281897,0.411308088796474
+"Namibia","Liver cancer",3.65600625102,0.40051361810205
+"Ghana","Gallbladder and biliary tract cancer",0.04352401327,0.0080242773568244
+"Ghana","Colon and rectum cancer",20.60037943914,0.0824173592432514
+"Ghana","Pancreatic cancer",2.66920316366,0.275219249187408
+"Namibia","Gallbladder and biliary tract cancer",0.50868902824,0.0937841330405246
+"Sierra Leone","Gallbladder and biliary tract cancer",0.03708529086,0.00683720634568093
+"Senegal","Esophageal cancer",6.36761889588,0.781726915651543
+"Senegal","Liver cancer",10.53060453868,1.15362235045739
+"Sierra Leone","Colon and rectum cancer",14.58087019334,0.0583346933173716
+"Niger","Esophageal cancer",5.24151720807,0.643479948690112
+"Niger","Liver cancer",11.0570133068,1.2112901622292
+"Senegal","Gallbladder and biliary tract cancer",0.03849452324,0.00709701858788361
+"Mali","Esophageal cancer",3.4033821499,0.417819513750463
+"Mali","Liver cancer",33.47365185553,3.66702146967237
+"Niger","Gallbladder and biliary tract cancer",0.03200926338,0.00590136772901417
+"Sierra Leone","Pancreatic cancer",1.49323806904,0.153966496748687
+"Senegal","Colon and rectum cancer",19.50034757902,0.0780163858892229
+"Togo","Colon and rectum cancer",17.34791330659,0.069404993598977
+"Mali","Gallbladder and biliary tract cancer",0.22411481997,0.0413187879540881
+"Benin","Esophageal cancer",6.59689470049,0.809874182393161
+"Benin","Liver cancer",16.07832457779,1.76137224816648
+"Senegal","Pancreatic cancer",2.01382134686,0.207643392090248
+"Togo","Pancreatic cancer",1.8652496489,0.192324291723612
+"Sierra Leone","Esophageal cancer",6.19055760839,0.759989814795773
+"Sierra Leone","Liver cancer",11.76737255114,1.2891096547488
+"Togo","Esophageal cancer",7.52641226833,0.923987309015992
+"Togo","Liver cancer",8.74849806342,0.95839349600717
+"Niger","Colon and rectum cancer",12.96556490365,0.0518722300049258
+"Mauritania","Colon and rectum cancer",20.33049072015,0.0813375968255536
+"Mali","Colon and rectum cancer",20.50321082176,0.0820286100520321
+"Togo","Gallbladder and biliary tract cancer",0.04199830338,0.00774299081168292
+"Niger","Pancreatic cancer",1.13851104969,0.117390897985299
+"Mauritania","Pancreatic cancer",2.21606498587,0.228496560271324
+"Mali","Pancreatic cancer",1.77683175953,0.183207598974837
+"Mauritania","Gallbladder and biliary tract cancer",0.03425685667,0.00631574385357823
+"Norway","Stomach cancer",14.69054927378,0.977566318753122
+"Malta","Stomach cancer",10.72388825382,0.713609257736707
+"Mauritania","Esophageal cancer",5.94210170095,0.729487884109541
+"Mauritania","Liver cancer",20.5846387619,2.25503666618517
+"Benin","Gallbladder and biliary tract cancer",0.03597375502,0.00663227873900825
+"Serbia","Stomach cancer",13.41753772256,0.892855176054226
+"Malaysia","Stomach cancer",10.02178288012,0.666888433841462
+"Albania","Stomach cancer",16.48553830928,1.09701187459546
+"Austria","Stomach cancer",18.72880562575,1.24628761178351
+"Cameroon","Stomach cancer",12.96774820226,0.862924430962333
+"Czechia","Stomach cancer",14.4395551984,0.960864196203082
+"Denmark","Stomach cancer",14.07407020058,0.936543402118406
+"Slovak Republic","Stomach cancer",19.66198913034,1.30838527377708
+"New Zealand","Stomach cancer",17.51686000032,1.16564003343222
+"Netherlands","Stomach cancer",5.70042968432,0.379328775116511
+"Switzerland","Stomach cancer",14.52987363255,0.966874336296697
+"Rwanda","Stomach cancer",8.23524727097,0.548005401885996
+"Bahrain","Stomach cancer",9.93154426506,0.660883605220722
+"Paraguay","Stomach cancer",12.75556568037,0.848804980221443
+"Chile","Stomach cancer",30.28986707084,2.01560563162956
+"Belgium","Stomach cancer",11.11897911161,0.739900140958625
+"Bulgaria","Stomach cancer",18.74673988594,1.24748102724992
+"Moldova","Stomach cancer",18.27931109923,1.21637649672574
+"Argentina","Stomach cancer",14.88972645723,0.990820343662344
+"Sudan","Esophageal cancer",6.11106316064,0.750230601741858
+"Sudan","Liver cancer",4.15410938798,0.455080562432677
+"El Salvador","Stomach cancer",29.62090307995,1.97109016432025
+"Croatia","Stomach cancer",22.21114928055,1.4780163105417
+"Sudan","Gallbladder and biliary tract cancer",0.86892742226,0.16019925818676
+"Honduras","Stomach cancer",26.62220312401,1.77154499944302
+"Ireland","Stomach cancer",13.48087837292,0.897070109427097
+"Korea, Rep.","Stomach cancer",88.44731474725,5.88562852686448
+"Uruguay","Stomach cancer",17.5316560169,1.16662461795597
+"Japan","Stomach cancer",91.35854459573,6.07935309039066
+"Poland","Stomach cancer",12.33555878537,0.820856086919754
+"Qatar","Stomach cancer",11.57076479409,0.769963718450285
+"Mexico","Stomach cancer",14.2182648717,0.946138676685994
+"Botswana","Stomach cancer",7.60526691758,0.506084057525549
+"Egypt, Arab Rep.","Stomach cancer",10.54137654813,0.701464218573388
+"Senegal","Stomach cancer",12.56833995848,0.836346252075003
+"Sudan","Colon and rectum cancer",34.31281629832,0.137277651407395
+"Sudan","Pancreatic cancer",1.66747946618,0.171932377784315
+"Cyprus","Stomach cancer",13.01583585399,0.866124370447447
+"Congo, Dem. Rep.","Stomach cancer",10.7471452909,0.715156871491625
+"Jamaica","Stomach cancer",13.9940872034,0.931221022222397
+"Panama","Stomach cancer",18.84501463183,1.25402061128968
+"Slovenia","Stomach cancer",23.82332896822,1.58529702095441
+"Algeria","Stomach cancer",5.29676299609,0.352467222763219
+"Togo","Stomach cancer",14.05796469408,0.935471679039341
+"Mali","Stomach cancer",21.72691544082,1.44579350639063
+"Saudi Arabia","Stomach cancer",6.53313503405,0.434740229662631
+"Kenya","Stomach cancer",10.61497726355,0.706361896603653
+"Peru","Stomach cancer",27.40663441188,1.82374411004854
+"Russian Federation","Stomach cancer",30.21010303328,2.01029782215877
+"Nepal","Stomach cancer",8.11351544823,0.539904892666545
+"Uganda","Stomach cancer",8.06464691305,0.536652990157765
+"Burundi","Stomach cancer",9.32864230112,0.620764162273154
+"Bolivia","Stomach cancer",40.12936707214,2.67036425333814
+"Cote d'Ivoire","Stomach cancer",4.62175376898,0.307549481910053
+"Mauritania","Stomach cancer",9.80038956433,0.65215606102953
+"Tunisia","Stomach cancer",7.40856954274,0.492995048731716
+"Brunei Darussalam","Stomach cancer",26.5305240642,1.76544431802295
+"South Africa","Stomach cancer",8.50087987545,0.565681629129983
+"Singapore","Stomach cancer",29.58351922455,1.96860249709807
+"Tanzania","Stomach cancer",7.75422854129,0.515996543669656
+"Romania","Stomach cancer",18.93751713934,1.26017608812426
+"Spain","Stomach cancer",25.3827991075,1.68907023289158
+"Colombia","Stomach cancer",24.19041791241,1.6097245478725
+"Australia","Stomach cancer",15.00232651724,0.998313189852365
+"Portugal","Stomach cancer",27.34189177967,1.81943588334739
+"Hungary","Stomach cancer",14.07797566933,0.936803287207642
+"Mauritius","Stomach cancer",13.77731007758,0.916795828655539
+"Italy","Stomach cancer",25.52290010278,1.69839309833773
+"Morocco","Stomach cancer",3.44995207294,0.22957323684541
+"Nicaragua","Stomach cancer",17.88340584795,1.19003142059168
+"Benin","Stomach cancer",11.62479264617,0.773558941983707
+"Congo, Rep.","Stomach cancer",11.16080382822,0.742683320367873
+"Namibia","Stomach cancer",3.63136707031,0.241645296769141
+"Haiti","Stomach cancer",22.5186520722,1.49847874298295
+"Israel","Stomach cancer",10.95382034944,0.728909834188236
+"Turkiye","Stomach cancer",21.77691299395,1.44912053814752
+"Sierra Leone","Stomach cancer",12.37820249096,0.823693765042927
+"Sweden","Stomach cancer",10.38149542748,0.69082510660833
+"Greece","Stomach cancer",15.92159261331,1.05948473332172
+"Belize","Stomach cancer",14.27745186471,0.950077209534328
+"Costa Rica","Stomach cancer",33.84027328833,2.25186347818296
+"Iraq","Stomach cancer",7.42749453354,0.494254391268472
+"France","Stomach cancer",17.60416157823,1.17144942017116
+"India","Stomach cancer",8.12969118837,0.540981289365339
+"Ghana","Stomach cancer",9.33943940301,0.621482643451162
+"Gabon","Stomach cancer",10.2272277177,0.680559532847839
+"Canada","Stomach cancer",20.65788807635,1.37465626530759
+"Niger","Stomach cancer",13.01551311609,0.866102894211607
+"Jordan","Stomach cancer",6.91660906439,0.460258083977716
+"Lithuania","Stomach cancer",25.47166199114,1.6949835149898
+"Finland","Stomach cancer",15.62181442845,1.03953632627753
+"Lesotho","Stomach cancer",15.60595554254,1.03848101429228
+"Ecuador","Stomach cancer",27.13889962459,1.80592799537948
+"Germany","Stomach cancer",25.41192275074,1.691008233451
+"Brazil","Stomach cancer",15.54769819975,1.03460434398743
+"Sudan","Stomach cancer",20.3829637299,1.35636172939296
+"Latvia","Stomach cancer",22.65051404471,1.50725335179082
+"Estonia","Stomach cancer",26.576140326,1.76847980160441
+"United Kingdom","Stomach cancer",13.45317744749,0.895226782047433
+"United States","Stomach cancer",15.02767535252,1
+"Luxembourg","Stomach cancer",11.58948160141,0.771209207648111
+"Guatemala","Stomach cancer",38.47642128437,2.56037080797849
+"Kuwait","Stomach cancer",5.55849737766,0.369884047084361
+"Zambia","Stomach cancer",9.828835632,0.654048973073656
+"Iceland","Stomach cancer",12.88570542184,0.857464985073635
+"Gambia, The","Stomach cancer",4.20348807438,0.279716454859075
+"Pakistan","Stomach cancer",6.24851192643,0.415800300435834
+"Bangladesh","Stomach cancer",7.41962442494,0.493730683614735
+"Ukraine","Stomach cancer",21.92653705436,1.4590771054076
+"Dominican Republic","Stomach cancer",10.25373797716,0.682323628680237
+"Zimbabwe","Stomach cancer",17.10765245096,1.1384097706164
+"Mozambique","Stomach cancer",9.5680608746,0.636696005879281
+"Kyrgyz Republic","Vascular intestinal disorders",1.1271123195,0.212682586514362
+"Viet Nam","Gastritis and duodenitis",424.52995432097,1.17402322036782
+"Kazakhstan","Gastritis and duodenitis",217.08780849553,0.600348987011223
+"Sri Lanka","Inflammatory bowel disease",8.86461443722,0.0482702929715589
+"Viet Nam","Appendicitis",4.89210940664,0.545359401284588
+"Viet Nam","Inguinal, femoral, and abdominal hernia",96.80082913001,1.62445102036051
+"Sri Lanka","Gallbladder and biliary diseases",1966.65064211333,0.630389525073565
+"Philippines","Peptic ulcer disease",188.96028028037,1.88605408829944
+"Kazakhstan","Appendicitis",5.9904657185,0.667801254244806
+"Kazakhstan","Inguinal, femoral, and abdominal hernia",213.55408852418,3.58373125646828
+"Kyrgyz Republic","Pancreatitis",198.19196693962,2.43606429719228
+"Thailand","Cirrhosis and other chronic liver diseases",19816.2640281605,1.7258821742741
+"Kazakhstan","Vascular intestinal disorders",2.45487414774,0.463227110799566
+"Sri Lanka","Cirrhosis and other chronic liver diseases",20123.912017666,1.75267653774667
+"Viet Nam","Vascular intestinal disorders",0.76105012331,0.143607789474299
+"Kazakhstan","Paralytic ileus and intestinal obstruction",4.18017607634,0.405861276451875
+"Viet Nam","Paralytic ileus and intestinal obstruction",7.8230236598,0.759552303610045
+"Maldives","Peptic ulcer disease",65.67142132825,0.655480889935196
+"Armenia","Cirrhosis and other chronic liver diseases",22983.175277151,2.00170185776104
+"Philippines","Inflammatory bowel disease",4.35214074023,0.0236986176976064
+"Philippines","Gallbladder and biliary diseases",2515.21277940511,0.80622544518854
+"Thailand","Appendicitis",5.1966879119,0.579313006460976
+"Thailand","Inguinal, femoral, and abdominal hernia",78.63815685971,1.31965640478613
+"Mongolia","Peptic ulcer disease",119.36823154424,1.19144055450724
+"Tajikistan","Peptic ulcer disease",65.51789525831,0.653948512488246
+"Maldives","Inflammatory bowel disease",6.46812062395,0.0352207171225106
+"Lao PDR","Peptic ulcer disease",233.835855491,2.33396706749918
+"Malaysia","Peptic ulcer disease",100.99097327998,1.00801310070788
+"Kyrgyz Republic","Peptic ulcer disease",53.27631198307,0.531762579289655
+"Maldives","Gallbladder and biliary diseases",2006.70447630443,0.64322836740398
+"Tajikistan","Inflammatory bowel disease",41.020848112,0.223369935639189
+"Kyrgyz Republic","Inflammatory bowel disease",45.21835019045,0.246226502781555
+"Mongolia","Inflammatory bowel disease",39.6435601165,0.215870219151819
+"Lao PDR","Inflammatory bowel disease",4.93377364802,0.0268657707711842
+"Mongolia","Gallbladder and biliary diseases",5547.07349734273,1.7780570441227
+"Lao PDR","Gallbladder and biliary diseases",2809.58431095155,0.900583195361865
+"Tajikistan","Gallbladder and biliary diseases",4595.43222086592,1.47301827441322
+"Kyrgyz Republic","Gallbladder and biliary diseases",4461.62882783671,1.4301289805149
+"Malaysia","Inflammatory bowel disease",8.01249612493,0.0436302715840559
+"Malaysia","Gallbladder and biliary diseases",2712.97300532365,0.86961544045545
+"Armenia","Appendicitis",6.28802055753,0.700971879710067
+"Armenia","Inguinal, femoral, and abdominal hernia",244.38836941302,4.10117288896386
+"Thailand","Gastritis and duodenitis",470.49009866963,1.30112444403316
+"Sri Lanka","Gastritis and duodenitis",493.46075362633,1.36464901286919
+"Sri Lanka","Appendicitis",4.56154259271,0.508508688280351
+"Sri Lanka","Inguinal, femoral, and abdominal hernia",81.38129407181,1.36569001920073
+"Viet Nam","Pancreatitis",34.89889651019,0.428957626853678
+"Philippines","Cirrhosis and other chronic liver diseases",22468.3121841983,1.95686025527451
+"Philippines","Appendicitis",3.79264143431,0.422793623359092
+"Philippines","Inguinal, femoral, and abdominal hernia",109.64150197511,1.83993516747791
+"Kazakhstan","Pancreatitis",202.97293965587,2.49482932747958
+"Armenia","Gastritis and duodenitis",242.55185380743,0.670768942485239
+"Maldives","Cirrhosis and other chronic liver diseases",20711.7288994045,1.80387199398847
+"Malaysia","Cirrhosis and other chronic liver diseases",23592.9772564456,2.05481208905418
+"Sri Lanka","Vascular intestinal disorders",0.66957668273,0.126347035951036
+"Thailand","Paralytic ileus and intestinal obstruction",8.96396517301,0.870328493524463
+"Thailand","Vascular intestinal disorders",0.8934234237,0.168586219241509
+"Maldives","Gastritis and duodenitis",452.54576294228,1.25149999090904
+"Armenia","Paralytic ileus and intestinal obstruction",4.94038230822,0.479671150965016
+"Philippines","Paralytic ileus and intestinal obstruction",5.48528642089,0.532576931648244
+"Armenia","Vascular intestinal disorders",3.94638613163,0.744670779778017
+"Philippines","Gastritis and duodenitis",448.23035017829,1.23956586296629
+"Malaysia","Gastritis and duodenitis",382.94850735003,1.05903113610263
+"Sri Lanka","Paralytic ileus and intestinal obstruction",8.31647364328,0.807462304648973
+"Thailand","Pancreatitis",35.33888801556,0.434365755214533
+"Armenia","Pancreatitis",182.17230626837,2.23915962937465
+"Malaysia","Paralytic ileus and intestinal obstruction",7.72173493714,0.749717988136674
+"Maldives","Paralytic ileus and intestinal obstruction",8.47347212646,0.822705587137742
+"Philippines","Pancreatitis",50.09005274897,0.615678783708819
+"Sri Lanka","Pancreatitis",32.9415777653,0.404899364622978
+"Lao PDR","Paralytic ileus and intestinal obstruction",3.97719263466,0.386153226543372
+"Malaysia","Pancreatitis",30.15107053312,0.370600017659831
+"Maldives","Pancreatitis",30.37319508242,0.373330247812118
+"Indonesia","Paralytic ileus and intestinal obstruction",5.78643887839,0.561816398736574
+"Lao PDR","Pancreatitis",34.66338530753,0.426062855480005
+"Cambodia","Paralytic ileus and intestinal obstruction",4.86247735256,0.472107210076244
+"Indonesia","Pancreatitis",42.34477840606,0.520478223413302
+"Cambodia","Pancreatitis",34.087485362,0.418984216937162
+"Serbia","Pancreatitis",72.16144666923,0.886967956265407
+"Romania","Paralytic ileus and intestinal obstruction",4.80315203257,0.466347201488725
+"Singapore","Pancreatitis",75.05717397353,0.922560609233825
+"Kyrgyz Republic","Paralytic ileus and intestinal obstruction",3.5718466602,0.346797411956967
+"Romania","Pancreatitis",115.25256498362,1.4166197704772
+"Korea, Rep.","Paralytic ileus and intestinal obstruction",9.04096340515,0.877804398895473
+"Mongolia","Paralytic ileus and intestinal obstruction",3.09001890179,0.300015834940371
+"China","Paralytic ileus and intestinal obstruction",8.00282018308,0.777009091340366
+"Poland","Paralytic ileus and intestinal obstruction",4.78061942681,0.464159467774037
+"Ukraine","Paralytic ileus and intestinal obstruction",5.80691300596,0.563804270873548
+"Japan","Paralytic ileus and intestinal obstruction",11.46668958564,1.11332278519235
+"Russian Federation","Paralytic ileus and intestinal obstruction",6.19096926133,0.601093025985096
+"Latvia","Paralytic ileus and intestinal obstruction",5.3409611895,0.518564119372775
+"Korea, Rep.","Pancreatitis",100.65364351783,1.2371780306858
+"Brunei Darussalam","Paralytic ileus and intestinal obstruction",4.30892979555,0.418362220879137
+"Mongolia","Pancreatitis",208.94626449051,2.56825008004536
+"China","Pancreatitis",23.86622294136,0.293350202402456
+"Ukraine","Pancreatitis",734.38858478869,9.02669184475233
+"Poland","Pancreatitis",81.56454028673,1.00254549958595
+"Russian Federation","Pancreatitis",786.36977917523,9.66561547887238
+"Brunei Darussalam","Pancreatitis",70.02142179459,0.860663972947041
+"Latvia","Pancreatitis",527.98428494769,6.48968616589546
+"Japan","Pancreatitis",75.87117383068,0.932565838106329
+"Moldova","Paralytic ileus and intestinal obstruction",4.65035647434,0.451511989007987
+"Estonia","Paralytic ileus and intestinal obstruction",6.87800075653,0.667798225601628
+"Slovenia","Paralytic ileus and intestinal obstruction",7.21474643529,0.700493506500143
+"Tajikistan","Paralytic ileus and intestinal obstruction",2.78755075329,0.270648624900806
+"Fiji","Paralytic ileus and intestinal obstruction",4.13488563887,0.401463941404991
+"Lithuania","Paralytic ileus and intestinal obstruction",5.53090440974,0.537006069284006
+"Moldova","Pancreatitis",608.67717020986,7.48151777168648
+"Serbia","Paralytic ileus and intestinal obstruction",5.14958827502,0.499983357718072
+"Estonia","Pancreatitis",686.64613559112,8.43986848482196
+"Tajikistan","Pancreatitis",185.60467141849,2.28134833321693
+"Slovenia","Pancreatitis",74.45054712042,0.915104292807894
+"Fiji","Pancreatitis",31.18537740009,0.383313136510576
+"Lithuania","Pancreatitis",575.57289146913,7.07461857809221
+"Singapore","Paralytic ileus and intestinal obstruction",8.68346286405,0.84309398878516
+"Israel","Pancreatitis",26.73665931262,0.328631993432457
+"Slovak Republic","Paralytic ileus and intestinal obstruction",5.42052858481,0.526289469701258
+"Ireland","Paralytic ileus and intestinal obstruction",7.04122223118,0.683645710213762
+"New Zealand","Paralytic ileus and intestinal obstruction",10.03444797117,0.974263712268023
+"Belgium","Paralytic ileus and intestinal obstruction",6.82492413695,0.662644915267546
+"Austria","Paralytic ileus and intestinal obstruction",6.5790915185,0.638776556974614
+"Ireland","Pancreatitis",33.4370232462,0.410989102092476
+"Australia","Paralytic ileus and intestinal obstruction",9.08821886687,0.882392521898606
+"New Zealand","Pancreatitis",39.88210098899,0.49020837633593
+"Denmark","Paralytic ileus and intestinal obstruction",6.49598902371,0.630707977088061
+"Slovak Republic","Pancreatitis",181.90028976342,2.23581615533689
+"Belgium","Pancreatitis",112.75497545455,1.3859208033356
+"Austria","Pancreatitis",119.75848176254,1.47200396773173
+"Hungary","Paralytic ileus and intestinal obstruction",5.02597752432,0.487981753922903
+"Iceland","Paralytic ileus and intestinal obstruction",7.52968390545,0.731071386787324
+"Denmark","Pancreatitis",48.17502795193,0.592140374920897
+"Australia","Pancreatitis",51.55076958324,0.63363309428568
+"Croatia","Paralytic ileus and intestinal obstruction",5.9914731819,0.581723570735858
+"Hungary","Pancreatitis",108.14522440717,1.32926033359573
+"Iceland","Pancreatitis",31.56675370057,0.388000799707731
+"Croatia","Pancreatitis",62.34945525865,0.766364471024488
+"Bulgaria","Paralytic ileus and intestinal obstruction",4.36643870318,0.423945870522552
+"Greece","Paralytic ileus and intestinal obstruction",5.86043378644,0.569000705637447
+"Germany","Paralytic ileus and intestinal obstruction",6.88502342939,0.668480070317978
+"Bulgaria","Pancreatitis",115.72498768803,1.42242652491416
+"Finland","Paralytic ileus and intestinal obstruction",6.67567325581,0.648153862253318
+"Greece","Pancreatitis",61.06493706756,0.750575895166811
+"Germany","Pancreatitis",58.70930986302,0.721621849152307
+"Finland","Pancreatitis",63.50868887365,0.78061311926797
+"Albania","Paralytic ileus and intestinal obstruction",4.5736079695,0.444060330137337
+"Sweden","Paralytic ileus and intestinal obstruction",10.15877860553,0.986335210942213
+"Albania","Pancreatitis",96.64443641311,1.18789910965449
+"Sweden","Pancreatitis",77.03826383827,0.946911052713166
+"Czechia","Paralytic ileus and intestinal obstruction",6.15029730336,0.597144107930918
+"Czechia","Pancreatitis",137.73478474809,1.69295858347531
+"Israel","Paralytic ileus and intestinal obstruction",6.0005894644,0.582608688009479
+"Luxembourg","Paralytic ileus and intestinal obstruction",6.64436082447,0.645113678509768
+"Portugal","Paralytic ileus and intestinal obstruction",5.91091179341,0.5739017117117
+"Luxembourg","Pancreatitis",60.72831011907,0.746438265860477
+"Portugal","Pancreatitis",33.00764872761,0.405711471767631
+"Spain","Paralytic ileus and intestinal obstruction",7.1565138363,0.694839592280844
+"Spain","Pancreatitis",31.45522625269,0.386629966983617
+"Netherlands","Paralytic ileus and intestinal obstruction",7.42094617685,0.720513833104869
+"Netherlands","Pancreatitis",31.03423328668,0.381455357993645
+"Norway","Paralytic ileus and intestinal obstruction",9.84371405398,0.955744992080241
+"Norway","Pancreatitis",104.67119421327,1.28655950644613
+"Malta","Paralytic ileus and intestinal obstruction",6.04751330363,0.587164613151892
+"Malta","Pancreatitis",18.90687991803,0.232392744523528
+"Italy","Paralytic ileus and intestinal obstruction",9.13970178223,0.887391096447114
+"Italy","Pancreatitis",29.88018885403,0.367270492263902
+"France","Paralytic ileus and intestinal obstruction",6.99143439543,0.678811714181001
+"France","Pancreatitis",34.09177148535,0.419036899557086
+"Cyprus","Paralytic ileus and intestinal obstruction",6.65642318491,0.646284836115524
+"Cyprus","Pancreatitis",15.13101778105,0.18598196872342
+"Maldives","Vascular intestinal disorders",0.80692285289,0.15226383076562
+"Philippines","Vascular intestinal disorders",0.45585236651,0.086017922704499
+"Lao PDR","Cirrhosis and other chronic liver diseases",20271.3011464239,1.76551327981084
+"Maldives","Appendicitis",4.45729582117,0.496887534257151
+"Maldives","Inguinal, femoral, and abdominal hernia",96.73154899352,1.62328840440542
+"Slovenia","Peptic ulcer disease",55.18305754525,0.550794225821722
+"Malaysia","Vascular intestinal disorders",1.48395857632,0.280018364480229
+"Albania","Gallbladder and biliary diseases",4558.77473307552,1.46126809579799
+"Lao PDR","Gastritis and duodenitis",473.69873364937,1.30999781547269
+"Lao PDR","Vascular intestinal disorders",0.41237772207,0.0778143926149751
+"Indonesia","Cirrhosis and other chronic liver diseases",23399.9701612914,2.03800228552302
+"Indonesia","Gastritis and duodenitis",402.54431117628,1.11322266835996
+"Indonesia","Vascular intestinal disorders",0.62844075942,0.118584815259395
+"Cambodia","Cirrhosis and other chronic liver diseases",24786.9575762848,2.15880088066072
+"Kazakhstan","Peptic ulcer disease",69.16656094823,0.690366646664916
+"Canada","Pancreatitis",81.90968092874,1.00678777442935
+"Slovenia","Inflammatory bowel disease",102.59584629229,0.558662939405512
+"Slovenia","Gallbladder and biliary diseases",5471.76884208143,1.75391891564708
+"Armenia","Peptic ulcer disease",86.177068839,0.8601522645939
+"Cambodia","Peptic ulcer disease",259.45542253314,2.58968159696852
+"Kazakhstan","Inflammatory bowel disease",48.59447812271,0.264610459078109
+"Indonesia","Peptic ulcer disease",44.86610853133,0.447818490193
+"Fiji","Peptic ulcer disease",121.2648441535,1.21037106180913
+"Kazakhstan","Gallbladder and biliary diseases",4709.54131269296,1.50959476373118
+"Armenia","Inflammatory bowel disease",50.92303885911,0.27729012041523
+"Cambodia","Inflammatory bowel disease",4.57453456481,0.0249096139731431
+"Armenia","Gallbladder and biliary diseases",4930.45127465365,1.58040516748178
+"Cambodia","Gastritis and duodenitis",491.67038570807,1.35969781098663
+"Fiji","Inflammatory bowel disease",6.21096745768,0.033820446556619
+"Cambodia","Gallbladder and biliary diseases",3344.5862236319,1.07207252571166
+"Indonesia","Inflammatory bowel disease",5.56579442754,0.0303072998312017
+"Fiji","Gallbladder and biliary diseases",2494.43997354051,0.799566937092075
+"Indonesia","Gallbladder and biliary diseases",3781.08192272366,1.21198670800457
+"Slovak Republic","Peptic ulcer disease",76.70551748271,0.765614628792538
+"Uruguay","Paralytic ileus and intestinal obstruction",5.41596086943,0.525845981493886
+"China","Cirrhosis and other chronic liver diseases",21874.6097543503,1.90515220177656
+"Uruguay","Cirrhosis and other chronic liver diseases",11218.2840506086,0.977047764471376
+"Cambodia","Vascular intestinal disorders",0.47496231688,0.08962391085895
+"China","Gastritis and duodenitis",709.16375029573,1.96116834964451
+"Uruguay","Gastritis and duodenitis",321.98810097964,0.890447195503263
+"Uruguay","Pancreatitis",46.05154016318,0.566039656170406
+"Haiti","Paralytic ileus and intestinal obstruction",2.63150074511,0.255497431660708
+"Argentina","Paralytic ileus and intestinal obstruction",4.95406490854,0.48099962075424
+"Jamaica","Paralytic ileus and intestinal obstruction",5.92654408578,0.575419480824602
+"United Kingdom","Paralytic ileus and intestinal obstruction",4.85463150744,0.47134544199349
+"Haiti","Pancreatitis",52.79306411804,0.648902680684938
+"Argentina","Pancreatitis",68.54851101359,0.84255978122853
+"Dominican Republic","Paralytic ileus and intestinal obstruction",4.45060392783,0.432117632880279
+"Jamaica","Pancreatitis",50.72018401783,0.623424003206449
+"Chile","Paralytic ileus and intestinal obstruction",6.07263024543,0.58960326498697
+"Switzerland","Paralytic ileus and intestinal obstruction",7.58206785401,0.73615744436956
+"Belize","Paralytic ileus and intestinal obstruction",5.1298962472,0.498071421139087
+"United Kingdom","Pancreatitis",62.85124945978,0.772532243395823
+"Dominican Republic","Pancreatitis",53.30500422213,0.655195160794661
+"Chile","Pancreatitis",21.84071268148,0.268453768385059
+"Belize","Pancreatitis",53.96189252819,0.663269262759265
+"Switzerland","Pancreatitis",33.53757069606,0.412224974850388
+"Bolivia","Paralytic ileus and intestinal obstruction",3.91197481691,0.379821104097804
+"Bolivia","Pancreatitis",34.09226883017,0.419043012640165
+"Canada","Paralytic ileus and intestinal obstruction",12.4471430955,1.20851688844216
+"United States","Paralytic ileus and intestinal obstruction",10.29951936505,1
+"United States","Pancreatitis",81.35744494431,1
+"Slovak Republic","Inflammatory bowel disease",71.21126678767,0.387765168475242
+"Uruguay","Vascular intestinal disorders",5.67221618954,1.0703295400011
+"Slovak Republic","Gallbladder and biliary diseases",5783.35681272177,1.85379521732694
+"Lao PDR","Appendicitis",3.96089289519,0.441549850651603
+"Lao PDR","Inguinal, femoral, and abdominal hernia",113.94452654525,1.91214583670898
+"China","Vascular intestinal disorders",0.60781959882,0.114693666438236
+"Kyrgyz Republic","Cirrhosis and other chronic liver diseases",24508.0344725146,2.13450828887318
+"Mongolia","Cirrhosis and other chronic liver diseases",30907.9697134353,2.69190569401055
+"Kazakhstan","Cirrhosis and other chronic liver diseases",18419.127024566,1.60419960857474
+"Viet Nam","Cirrhosis and other chronic liver diseases",22531.2378011628,1.9623407131686
+"Malaysia","Appendicitis",4.65733520838,0.519187395395602
+"Malaysia","Inguinal, femoral, and abdominal hernia",121.30428314378,2.03565267258566
+"Denmark","Cirrhosis and other chronic liver diseases",9951.7834553162,0.866742875617635
+"Moldova","Cirrhosis and other chronic liver diseases",17459.2085519116,1.5205962523439
+"Kyrgyz Republic","Appendicitis",5.71796469756,0.637423562072271
+"Kyrgyz Republic","Inguinal, femoral, and abdominal hernia",372.31457054968,6.2479504510464
+"Hungary","Cirrhosis and other chronic liver diseases",14335.9576161601,1.24857913003779
+"Chile","Cirrhosis and other chronic liver diseases",12347.9093864025,1.07543160856452
+"Argentina","Cirrhosis and other chronic liver diseases",10822.4754825092,0.942575123657911
+"Albania","Cirrhosis and other chronic liver diseases",16993.002284711,1.47999237842736
+"Mongolia","Gastritis and duodenitis",280.71362545456,0.776304030382079
+"Panama","Paralytic ileus and intestinal obstruction",6.48606883111,0.629744806647928
+"Denmark","Gastritis and duodenitis",317.69785850103,0.878582675132838
+"Tajikistan","Cirrhosis and other chronic liver diseases",24398.7425791367,2.1249895960305
+"Croatia","Cirrhosis and other chronic liver diseases",14344.9337355942,1.24936089821081
+"Chile","Gastritis and duodenitis",260.12853462704,0.71937665840536
+"Kyrgyz Republic","Gastritis and duodenitis",206.80176621532,0.571903285218596
+"Albania","Gastritis and duodenitis",415.0900405389,1.1479174582994
+"Moldova","Gastritis and duodenitis",285.29265895592,0.788967192551725
+"Argentina","Gastritis and duodenitis",320.49289653245,0.886312258210072
+"Hungary","Gastritis and duodenitis",445.52337015762,1.23207980133744
+"Fiji","Cirrhosis and other chronic liver diseases",23185.7771497683,2.01934731100731
+"Denmark","Vascular intestinal disorders",3.12569603096,0.589809112207337
+"Croatia","Gastritis and duodenitis",385.63581022147,1.06646278124125
+"Tajikistan","Gastritis and duodenitis",218.65466172067,0.604682066574866
+"Mongolia","Vascular intestinal disorders",1.21808343057,0.229848552022605
+"Moldova","Vascular intestinal disorders",4.30225026704,0.811821234490704
+"Argentina","Vascular intestinal disorders",2.72657062151,0.514495389735484
+"Albania","Vascular intestinal disorders",1.59175081451,0.300358424319688
+"Chile","Vascular intestinal disorders",3.62601786392,0.68421828481823
+"Spain","Cirrhosis and other chronic liver diseases",13796.8397166369,1.20162507395047
+"Hungary","Vascular intestinal disorders",4.51665140284,0.852278061485364
+"Japan","Cirrhosis and other chronic liver diseases",10104.9505579935,0.88008284584715
+"Panama","Pancreatitis",46.12427647627,0.566933690061709
+"Mexico","Paralytic ileus and intestinal obstruction",6.93787155172,0.673611195417789
+"Nicaragua","Paralytic ileus and intestinal obstruction",5.42691351531,0.526909394794235
+"Brunei Darussalam","Appendicitis",10.91104131383,1.21633399085991
+"Brunei Darussalam","Inguinal, femoral, and abdominal hernia",158.09423840486,2.65303871049462
+"Tajikistan","Vascular intestinal disorders",1.07559106026,0.202960685257439
+"Fiji","Gastritis and duodenitis",407.71549969581,1.12752341519074
+"Sweden","Appendicitis",11.60695034733,1.29391208699631
+"Sweden","Inguinal, femoral, and abdominal hernia",83.65873225999,1.40390856362692
+"Nicaragua","Pancreatitis",42.82398374748,0.526368346213348
+"Latvia","Cirrhosis and other chronic liver diseases",13581.5823645978,1.18287740152151
+"Mexico","Pancreatitis",33.82627708433,0.415773591556181
+"Ukraine","Cirrhosis and other chronic liver diseases",16356.6332547164,1.42456831042105
+"Honduras","Paralytic ileus and intestinal obstruction",3.78615978954,0.367605482872124
+"Croatia","Vascular intestinal disorders",3.88390025129,0.732879888647279
+"Japan","Gastritis and duodenitis",122.51960348411,0.338823816733203
+"Honduras","Pancreatitis",41.25067426324,0.5070301100468
+"Fiji","Vascular intestinal disorders",0.63692675875,0.120186096920005
+"Peru","Paralytic ileus and intestinal obstruction",6.67671090868,0.648254609951655
+"Colombia","Paralytic ileus and intestinal obstruction",6.62760601644,0.643486922208222
+"Guatemala","Paralytic ileus and intestinal obstruction",4.14598259325,0.402541365893133
+"Peru","Pancreatitis",35.6755726533,0.438504093604713
+"Colombia","Pancreatitis",42.98707866637,0.528373017316302
+"Guatemala","Pancreatitis",40.58620851266,0.498862870391784
+"Ecuador","Paralytic ileus and intestinal obstruction",5.39372524952,0.523687082702409
+"Paraguay","Paralytic ileus and intestinal obstruction",5.73374551001,0.55670029899324
+"Brazil","Paralytic ileus and intestinal obstruction",5.49563174018,0.533581378450403
+"Ecuador","Pancreatitis",19.27342610631,0.236898124314288
+"El Salvador","Paralytic ileus and intestinal obstruction",5.54662644502,0.538532551707385
+"Brazil","Pancreatitis",74.50216101771,0.915738701832481
+"Paraguay","Pancreatitis",77.15976392385,0.948404463496446
+"El Salvador","Pancreatitis",40.70559010096,0.500330241796843
+"Costa Rica","Paralytic ileus and intestinal obstruction",7.4682142532,0.725103180886514
+"Costa Rica","Pancreatitis",42.82315459973,0.526358154795088
+"Denmark","Appendicitis",10.23474744713,1.14094254157315
+"Denmark","Inguinal, femoral, and abdominal hernia",117.62212308861,1.97386096364567
+"Japan","Vascular intestinal disorders",4.5692691496,0.862206866524456
+"Italy","Cirrhosis and other chronic liver diseases",16864.4652256202,1.46879754277603
+"Viet Nam","Peptic ulcer disease",57.83431404296,0.577256999634383
+"Finland","Cirrhosis and other chronic liver diseases",9901.75811252781,0.862385957115856
+"Spain","Gastritis and duodenitis",202.22833429702,0.559255614037316
+"Serbia","Vascular intestinal disorders",3.95628136171,0.746537978894875
+"Thailand","Peptic ulcer disease",66.60307861179,0.664779966047421
+"Indonesia","Appendicitis",5.84852857033,0.651978476847193
+"Indonesia","Inguinal, femoral, and abdominal hernia",232.85215722878,3.90757938545559
+"Cambodia","Appendicitis",6.93388478,0.772971112842363
+"Cambodia","Inguinal, femoral, and abdominal hernia",143.36832590058,2.40591764956663
+"Belgium","Cirrhosis and other chronic liver diseases",11249.1536713886,0.979736330194724
+"Dominican Republic","Cirrhosis and other chronic liver diseases",17667.2211162422,1.53871294559612
+"Ukraine","Gastritis and duodenitis",319.54772636491,0.883698422101226
+"Italy","Gastritis and duodenitis",252.00498198925,0.696911248528923
+"Cyprus","Cirrhosis and other chronic liver diseases",12195.5569752486,1.06216259326252
+"Latvia","Gastritis and duodenitis",305.09968199684,0.843742844398471
+"Finland","Gastritis and duodenitis",286.83427343035,0.79323047520449
+"Spain","Vascular intestinal disorders",6.20130661224,1.17016725595272
+"Fiji","Appendicitis",3.93032574779,0.438142306007893
+"Fiji","Inguinal, femoral, and abdominal hernia",121.11707177907,2.03251100845779
+"Czechia","Cirrhosis and other chronic liver diseases",12928.8892487739,1.12603159989761
+"United Kingdom","Cirrhosis and other chronic liver diseases",11925.8760883194,1.03867494519566
+"Dominican Republic","Gastritis and duodenitis",444.71549281815,1.22984564389792
+"Belgium","Gastritis and duodenitis",380.35349146753,1.05185470750844
+"Cyprus","Gastritis and duodenitis",207.03783474061,0.572556124735496
+"Ukraine","Vascular intestinal disorders",3.88289481267,0.732690165509147
+"Latvia","Vascular intestinal disorders",5.46549262625,1.03132144704237
+"Italy","Vascular intestinal disorders",2.87982046184,0.543413157610434
+"Finland","Vascular intestinal disorders",3.76881655816,0.711163953955543
+"United Kingdom","Gastritis and duodenitis",441.47171345059,1.22087508184333
+"Czechia","Gastritis and duodenitis",424.78501299623,1.17472857650174
+"Belgium","Vascular intestinal disorders",6.25476716357,1.18025509559091
+"Dominican Republic","Vascular intestinal disorders",1.023190366,0.193072837349514
+"Cyprus","Vascular intestinal disorders",2.32675649424,0.439051708354654
+"Morocco","Paralytic ileus and intestinal obstruction",3.57101630172,0.346716790866742
+"Morocco","Pancreatitis",41.64988402011,0.511936972069609
+"Kuwait","Paralytic ileus and intestinal obstruction",7.65834051081,0.74356290224547
+"Kuwait","Pancreatitis",42.04937704471,0.516847315860192
+"Poland","Cirrhosis and other chronic liver diseases",13791.779234848,1.20118433520677
+"United Kingdom","Vascular intestinal disorders",4.59576847667,0.867207207062511
+"Czechia","Vascular intestinal disorders",2.71875859674,0.513021284976577
+"Dominican Republic","Appendicitis",6.91953721192,0.77137168394828
+"Dominican Republic","Inguinal, femoral, and abdominal hernia",260.99965800586,4.37993315317503
+"Bahrain","Paralytic ileus and intestinal obstruction",6.15448794236,0.597550985072605
+"Iraq","Paralytic ileus and intestinal obstruction",4.46541765474,0.433555925909784
+"Bahrain","Pancreatitis",44.83051020684,0.551031442021402
+"Iraq","Pancreatitis",41.55057606106,0.510716334436287
+"Norway","Cirrhosis and other chronic liver diseases",10218.4800486032,0.889970608940103
+"Jordan","Paralytic ileus and intestinal obstruction",6.07172575392,0.58951544617932
+"Egypt, Arab Rep.","Paralytic ileus and intestinal obstruction",3.68269572865,0.357559959656634
+"Jordan","Pancreatitis",54.50991259499,0.670005217497951
+"Algeria","Paralytic ileus and intestinal obstruction",4.64950254038,0.451429078929396
+"Egypt, Arab Rep.","Pancreatitis",41.72323255318,0.512838531024911
+"Algeria","Pancreatitis",42.17058550823,0.518337142188969
+"Australia","Cirrhosis and other chronic liver diseases",12284.5158516683,1.06991039773454
+"Serbia","Cirrhosis and other chronic liver diseases",17819.6021828236,1.55198445662041
+"Poland","Appendicitis",11.19598166878,1.24809838704582
+"Poland","Inguinal, femoral, and abdominal hernia",206.83953880987,3.47105187931106
+"Ireland","Gastritis and duodenitis",351.43181869653,0.971872800320418
+"Slovenia","Cirrhosis and other chronic liver diseases",13229.5263151106,1.15221535244446
+"Singapore","Vascular intestinal disorders",5.18721130675,0.978810628212757
+"Israel","Vascular intestinal disorders",3.52959302916,0.666023218624584
+"Cyprus","Appendicitis",6.06061738286,0.675621576010824
+"Cyprus","Inguinal, femoral, and abdominal hernia",118.07214905458,1.98141301817019
+"Lithuania","Appendicitis",6.84945662168,0.76355928533694
+"Lithuania","Inguinal, femoral, and abdominal hernia",212.47624213806,3.56564351199893
+"United Kingdom","Appendicitis",7.62303693561,0.849795970125264
+"United Kingdom","Inguinal, femoral, and abdominal hernia",99.91002251806,1.67662756075906
+"Israel","Appendicitis",8.36454602095,0.93245743928195
+"Israel","Inguinal, femoral, and abdominal hernia",122.64783679885,2.05819935039311
+"El Salvador","Appendicitis",7.78201892995,0.867518861835456
+"El Salvador","Inguinal, femoral, and abdominal hernia",233.74457297739,3.9225553488481
+"Poland","Gastritis and duodenitis",831.77482438379,2.30024512523709
+"Norway","Gastritis and duodenitis",457.36425273661,1.26482536135244
+"Ireland","Vascular intestinal disorders",4.52054327697,0.853012446020105
+"Australia","Gastritis and duodenitis",396.18153024665,1.09562661304875
+"Serbia","Gastritis and duodenitis",421.56176093335,1.1658147820135
+"Poland","Vascular intestinal disorders",2.16886868931,0.409258770995506
+"Luxembourg","Appendicitis",12.95938613097,1.44467804661297
+"Luxembourg","Inguinal, femoral, and abdominal hernia",171.35992420023,2.87565515933855
+"Norway","Vascular intestinal disorders",3.08029705289,0.581242466351386
+"Tajikistan","Appendicitis",5.2966515924,0.590456692837591
+"Tajikistan","Inguinal, femoral, and abdominal hernia",276.06722175003,4.63278759170149
+"Slovak Republic","Appendicitis",11.2944240517,1.25907248319695
+"Slovak Republic","Inguinal, femoral, and abdominal hernia",245.25402703319,4.11569981416695
+"Australia","Vascular intestinal disorders",3.65343974887,0.689392709156749
+"Ecuador","Cirrhosis and other chronic liver diseases",20351.0736567312,1.77246100483816
+"Russian Federation","Cirrhosis and other chronic liver diseases",15940.8004720214,1.38835167613962
+"Ecuador","Gastritis and duodenitis",611.32590952956,1.69060111234824
+"China","Appendicitis",11.68297809944,1.30238745946354
+"China","Inguinal, femoral, and abdominal hernia",120.12546729582,2.01587052170694
+"Slovenia","Gastritis and duodenitis",488.47721514928,1.35086720587983
+"Ecuador","Vascular intestinal disorders",1.43188787757,0.270192785697919
+"Turkiye","Paralytic ileus and intestinal obstruction",5.54917722954,0.538780212246638
+"Turkiye","Pancreatitis",43.09445495071,0.529692826270645
+"Tunisia","Paralytic ileus and intestinal obstruction",5.48408812449,0.532460586762864
+"Tunisia","Pancreatitis",44.6838412788,0.549228669968514
+"Saudi Arabia","Paralytic ileus and intestinal obstruction",5.42469447884,0.526693944306562
+"Saudi Arabia","Pancreatitis",42.47054391604,0.522024062396644
+"Qatar","Paralytic ileus and intestinal obstruction",7.40551630113,0.71901571701099
+"Qatar","Pancreatitis",45.37249736621,0.557693243651739
+"Slovenia","Vascular intestinal disorders",4.93900056413,0.93197403364471
+"Honduras","Cirrhosis and other chronic liver diseases",21494.2379264059,1.87202401189614
+"Peru","Cirrhosis and other chronic liver diseases",16095.3341431748,1.4018106665926
+"El Salvador","Cirrhosis and other chronic liver diseases",19701.1764591557,1.71585871154956
+"Iceland","Cirrhosis and other chronic liver diseases",11534.1293240528,1.00455606404245
+"Panama","Gastritis and duodenitis",268.89386299165,0.743616877333282
+"Paraguay","Cirrhosis and other chronic liver diseases",16783.7024683095,1.46176357295258
+"Belize","Cirrhosis and other chronic liver diseases",20802.4285061527,1.81177140602083
+"Netherlands","Cirrhosis and other chronic liver diseases",10542.4668795335,0.91818799115743
+"Costa Rica","Cirrhosis and other chronic liver diseases",18841.7171743354,1.64100477051013
+"Korea, Rep.","Cirrhosis and other chronic liver diseases",13990.8189986455,1.21851954934309
+"Guatemala","Cirrhosis and other chronic liver diseases",21523.6530738106,1.87458590138688
+"Panama","Appendicitis",8.31734934076,0.927196078361423
+"Panama","Inguinal, femoral, and abdominal hernia",227.72691004259,3.82157069011659
+"Russian Federation","Gastritis and duodenitis",329.15461748848,0.910265954356181
+"Mongolia","Appendicitis",8.08967156653,0.901815163030431
+"Mongolia","Inguinal, femoral, and abdominal hernia",239.94046851214,4.02653099568842
+"Pakistan","Pancreatitis",36.46483348701,0.448205244301496
+"Nepal","Paralytic ileus and intestinal obstruction",6.32473173386,0.614080279835398
+"India","Paralytic ileus and intestinal obstruction",7.15229639151,0.694430112513826
+"India","Pancreatitis",39.54649480552,0.486083293699673
+"Nepal","Pancreatitis",25.48686631995,0.313270240202307
+"El Salvador","Gastritis and duodenitis",282.0684935709,0.780050872302017
+"Bangladesh","Paralytic ileus and intestinal obstruction",7.222169596,0.7012142353465
+"Guatemala","Gastritis and duodenitis",422.91366447753,1.16955342550946
+"Peru","Gastritis and duodenitis",837.03573291766,2.31479398973094
+"Costa Rica","Gastritis and duodenitis",258.44369803649,0.714717299837848
+"Iceland","Gastritis and duodenitis",284.14951670908,0.785805871357982
+"Ireland","Cirrhosis and other chronic liver diseases",12134.7510707424,1.05686675008397
+"Brunei Darussalam","Cirrhosis and other chronic liver diseases",15290.1260846434,1.33168169410686
+"Paraguay","Gastritis and duodenitis",426.3225163647,1.17898049003011
+"Honduras","Gastritis and duodenitis",526.20676085273,1.45520698755821
+"Panama","Vascular intestinal disorders",2.00835330228,0.378970017072527
+"Russian Federation","Vascular intestinal disorders",5.37571339153,1.01438038489162
+"Slovenia","Appendicitis",12.03380990264,1.3414972598055
+"Slovenia","Inguinal, femoral, and abdominal hernia",228.15806768386,3.82880610820745
+"Bangladesh","Pancreatitis",24.42516864562,0.300220448937885
+"France","Appendicitis",8.83096390631,0.984452469966077
+"France","Inguinal, femoral, and abdominal hernia",136.069324402,2.2834303678094
+"Paraguay","Vascular intestinal disorders",1.64317664499,0.310062318466624
+"Canada","Appendicitis",8.86284940106,0.988006980481095
+"Canada","Inguinal, femoral, and abdominal hernia",51.08770950869,0.85732201454403
+"Brunei Darussalam","Gastritis and duodenitis",134.52098097198,0.372013219986727
+"Belize","Gastritis and duodenitis",551.39895798529,1.52487515609302
+"Guatemala","Vascular intestinal disorders",0.92938469499,0.175371999203256
+"El Salvador","Vascular intestinal disorders",1.4109392261,0.266239840368917
+"Bulgaria","Appendicitis",8.32587043972,0.928145987907764
+"Bulgaria","Inguinal, femoral, and abdominal hernia",268.41825331899,4.50442738358984
+"Jamaica","Cirrhosis and other chronic liver diseases",18617.7728148993,1.62150050989719
+"Costa Rica","Vascular intestinal disorders",4.52490423979,0.853835346130594
+"Iceland","Vascular intestinal disorders",3.74421388954,0.706521506963589
+"Honduras","Vascular intestinal disorders",2.81784329846,0.531718259786649
+"Peru","Vascular intestinal disorders",0.9802283268,0.184966034273276
+"Bahrain","Cirrhosis and other chronic liver diseases",32051.5500010862,2.7915049338321
+"Pakistan","Paralytic ileus and intestinal obstruction",6.52411822659,0.633439095102699
+"Germany","Appendicitis",8.80117601995,0.981131795279453
+"Germany","Inguinal, femoral, and abdominal hernia",178.02995360839,2.9875874245402
+"Haiti","Appendicitis",4.61997447194,0.515022519436611
+"Haiti","Inguinal, femoral, and abdominal hernia",436.09318272195,7.31824326311799
+"Belize","Vascular intestinal disorders",0.88082356153,0.166208664467528
+"Bahrain","Gastritis and duodenitis",199.24539283741,0.551006390389054
+"Nicaragua","Appendicitis",7.84353729633,0.87437676640551
+"Nicaragua","Inguinal, femoral, and abdominal hernia",257.72764506095,4.32502427672468
+"Honduras","Appendicitis",8.37107244436,0.933184987680311
+"Honduras","Inguinal, femoral, and abdominal hernia",365.11351769511,6.12710688222153
+"Malta","Cirrhosis and other chronic liver diseases",12720.6444491118,1.10789468028898
+"Morocco","Gastritis and duodenitis",199.07962464532,0.550547964064289
+"Algeria","Cirrhosis and other chronic liver diseases",30158.4745222809,2.62662899057748
+"France","Cirrhosis and other chronic liver diseases",10791.4066394568,0.939869206824978
+"Canada","Vascular intestinal disorders",6.23285793849,1.17612089301152
+"Bolivia","Cirrhosis and other chronic liver diseases",14705.7944468822,1.28078978249106
+"Brunei Darussalam","Vascular intestinal disorders",4.11261269825,0.77603721551339
+"Jamaica","Gastritis and duodenitis",471.59361327258,1.30417617631893
+"Iraq","Cirrhosis and other chronic liver diseases",29047.3070229869,2.5298527174647
+"France","Gastritis and duodenitis",328.454135428,0.908328794925888
+"Bahrain","Vascular intestinal disorders",2.56943835401,0.484845019937741
+"Malta","Gastritis and duodenitis",599.28634665739,1.65730610870683
+"Jamaica","Appendicitis",6.81953466825,0.760223665208391
+"Jamaica","Inguinal, femoral, and abdominal hernia",266.30013914308,4.46888251517062
+"Latvia","Appendicitis",6.85491172068,0.764167405327174
+"Latvia","Inguinal, femoral, and abdominal hernia",158.68228885597,2.66290700567261
+"Colombia","Appendicitis",8.97755849473,1.00079444646885
+"Colombia","Inguinal, femoral, and abdominal hernia",242.16614519978,4.06388091096005
+"Croatia","Appendicitis",10.82125446023,1.20632479019566
+"Croatia","Inguinal, femoral, and abdominal hernia",217.68008796156,3.65297120055034
+"Bolivia","Gastritis and duodenitis",670.2282289623,1.85349348317793
+"Iraq","Gastritis and duodenitis",192.13115966827,0.531332219342536
+"Burundi","Paralytic ileus and intestinal obstruction",5.33462902405,0.517949317339247
+"Netherlands","Gastritis and duodenitis",333.55946080732,0.922447399471572
+"Jamaica","Vascular intestinal disorders",1.04609603351,0.197395065513984
+"Burundi","Pancreatitis",27.70594675525,0.340545930052437
+"Gabon","Paralytic ileus and intestinal obstruction",7.33778479479,0.712439535740839
+"Panama","Cirrhosis and other chronic liver diseases",18600.5223123142,1.61999809072945
+"Congo, Rep.","Paralytic ileus and intestinal obstruction",6.34934379439,0.616469911784003
+"Gabon","Pancreatitis",28.96051839754,0.355966419758681
+"Congo, Rep.","Pancreatitis",27.12149592751,0.333362188870053
+"France","Vascular intestinal disorders",4.48235825194,0.845807050649128
+"Congo, Dem. Rep.","Paralytic ileus and intestinal obstruction",5.48872417632,0.532910709886641
+"Bolivia","Vascular intestinal disorders",1.01336611152,0.191219031107463
+"Malta","Vascular intestinal disorders",2.4683944918,0.465778357641159
+"Congo, Dem. Rep.","Pancreatitis",24.89178983049,0.305955894356425
+"Ireland","Appendicitis",8.64746879802,0.963996921228786
+"Ireland","Inguinal, femoral, and abdominal hernia",122.32820623819,2.05283551007202
+"New Zealand","Cirrhosis and other chronic liver diseases",12137.5491719066,1.05711044853864
+"Netherlands","Vascular intestinal disorders",4.56650535819,0.861685347687783
+"Iraq","Vascular intestinal disorders",0.83413733726,0.157399119260234
+"Greece","Cirrhosis and other chronic liver diseases",12388.3058185932,1.07894990455226
+"New Zealand","Gastritis and duodenitis",475.89105440824,1.31606060433178
+"Greece","Gastritis and duodenitis",150.32636679814,0.41572247955232
+"Nicaragua","Cirrhosis and other chronic liver diseases",19847.004615505,1.72855950193027
+"Nicaragua","Gastritis and duodenitis",357.03483957783,0.987367764932217
+"New Zealand","Vascular intestinal disorders",3.02774147743,0.571325392843093
+"Tunisia","Cirrhosis and other chronic liver diseases",29594.8275935994,2.5775385976854
+"Brazil","Cirrhosis and other chronic liver diseases",20176.0441306594,1.75721694376844
+"Greece","Vascular intestinal disorders",2.82818721071,0.533670123832447
+"Albania","Appendicitis",7.8824748273,0.878717419243012
+"Albania","Inguinal, femoral, and abdominal hernia",280.93456435752,4.71446829357401
+"Mexico","Appendicitis",9.09499933759,1.01388644062203
+"Mexico","Inguinal, femoral, and abdominal hernia",299.65533956771,5.02862864390829
+"India","Cirrhosis and other chronic liver diseases",17850.6647852001,1.55468982992649
+"Tunisia","Gastritis and duodenitis",201.22464744919,0.556479952029637
+"Nicaragua","Vascular intestinal disorders",1.40218174224,0.2645873304225
+"Jordan","Cirrhosis and other chronic liver diseases",32654.6738642745,2.844033539773
+"Argentina","Appendicitis",7.50237787188,0.836345217232036
+"Argentina","Inguinal, femoral, and abdominal hernia",164.26370095344,2.75657077547989
+"United States","Cirrhosis and other chronic liver diseases",11481.8174285247,1
+"Bangladesh","Cirrhosis and other chronic liver diseases",18138.5736562481,1.57976503015853
+"Burundi","Cirrhosis and other chronic liver diseases",19272.2162798024,1.67849875681908
+"Singapore","Cirrhosis and other chronic liver diseases",15960.5414575238,1.39007100198897
+"Switzerland","Cirrhosis and other chronic liver diseases",10855.4018989122,0.945442824403713
+"Morocco","Vascular intestinal disorders",0.86385136923,0.163006064607041
+"Lithuania","Cirrhosis and other chronic liver diseases",13132.1707454091,1.14373624447157
+"Estonia","Cirrhosis and other chronic liver diseases",13799.2187903605,1.20183227753461
+"Hungary","Appendicitis",8.62758013454,0.961779785693533
+"Hungary","Inguinal, femoral, and abdominal hernia",224.09155038468,3.76056435619627
+"Czechia","Appendicitis",11.93741881388,1.33075183649507
+"Czechia","Inguinal, femoral, and abdominal hernia",247.82079259786,4.15877366981496
+"Paraguay","Appendicitis",6.73357174628,0.750640746315653
+"Paraguay","Inguinal, femoral, and abdominal hernia",255.82329362504,4.2930666410206
+"Malta","Appendicitis",8.46250483359,0.943377628298857
+"Malta","Inguinal, femoral, and abdominal hernia",145.02891081104,2.43378454777851
+"Australia","Appendicitis",10.72327351346,1.19540213372456
+"Australia","Inguinal, femoral, and abdominal hernia",73.35415558009,1.23098359746196
+"Kuwait","Appendicitis",7.91304675009,0.882125496234553
+"Kuwait","Inguinal, femoral, and abdominal hernia",202.94363080861,3.40567318591807
+"Saudi Arabia","Appendicitis",7.34499026161,0.818800063235692
+"Saudi Arabia","Inguinal, femoral, and abdominal hernia",215.13251712376,3.61021945881322
+"Ecuador","Appendicitis",11.85294033477,1.32133439936123
+"Ecuador","Inguinal, femoral, and abdominal hernia",224.86811793305,3.77359622748979
+"Algeria","Gastritis and duodenitis",190.45664186049,0.526701397019533
+"Brazil","Gastritis and duodenitis",528.85481711576,1.46253009752959
+"Finland","Appendicitis",11.46278038388,1.27784040126426
+"Finland","Inguinal, femoral, and abdominal hernia",108.61167009323,1.82265317241284
+"Jordan","Gastritis and duodenitis",150.16584787294,0.415278569897476
+"Kenya","Paralytic ileus and intestinal obstruction",8.82591877078,0.856925304760292
+"United States","Gastritis and duodenitis",361.60268975597,1
+"Tunisia","Vascular intestinal disorders",1.15896559402,0.218693200271889
+"Singapore","Gastritis and duodenitis",131.71729302565,0.364259715862568
+"Portugal","Cirrhosis and other chronic liver diseases",13467.2586582102,1.17292046682026
+"Romania","Gastritis and duodenitis",481.58705792786,1.33181270928284
+"Kenya","Pancreatitis",38.13197839459,0.468696852767337
+"Bangladesh","Gastritis and duodenitis",336.47562068252,0.930511940908384
+"Burundi","Gastritis and duodenitis",576.37331593076,1.59394089772875
+"Lithuania","Gastritis and duodenitis",309.62945386454,0.856269775187501
+"Estonia","Gastritis and duodenitis",287.016138579,0.793733417117817
+"Korea, Rep.","Gastritis and duodenitis",137.89935103501,0.381355988054382
+"Mozambique","Paralytic ileus and intestinal obstruction",5.24835613627,0.509572917944072
+"Mozambique","Pancreatitis",24.55287892544,0.30179019193937
+"Mauritius","Paralytic ileus and intestinal obstruction",7.2769182746,0.706529889083293
+"Mauritius","Pancreatitis",31.31281096125,0.384879478241775
+"Rwanda","Paralytic ileus and intestinal obstruction",6.0812423933,0.590439434866821
+"Rwanda","Pancreatitis",28.75987054263,0.353500169066475
+"Switzerland","Gastritis and duodenitis",259.82305588463,0.718531867282219
+"Peru","Appendicitis",12.85620138981,1.43317528492404
+"Peru","Inguinal, femoral, and abdominal hernia",224.93458414825,3.7747116219763
+"Serbia","Appendicitis",8.20401925905,0.914562340975049
+"Serbia","Inguinal, femoral, and abdominal hernia",196.29670537806,3.29412863723022
+"Morocco","Appendicitis",6.15047859582,0.685639066059607
+"Morocco","Inguinal, femoral, and abdominal hernia",292.92625350015,4.91570532675508
+"Algeria","Vascular intestinal disorders",1.09212331932,0.206080271084845
+"United States","Vascular intestinal disorders",5.29950447741,1
+"Brazil","Vascular intestinal disorders",1.74598829213,0.329462556277206
+"Bangladesh","Vascular intestinal disorders",1.09312609624,0.206269491968471
+"Jordan","Vascular intestinal disorders",1.36842676011,0.258217870358095
+"Turkiye","Cirrhosis and other chronic liver diseases",28272.4968431956,2.46237122469455
+"India","Gastritis and duodenitis",398.96055744814,1.1033119187177
+"Nepal","Gastritis and duodenitis",329.82090855288,0.912108559744016
+"Germany","Cirrhosis and other chronic liver diseases",10535.7955350778,0.917606955576849
+"Romania","Vascular intestinal disorders",4.25320865458,0.802567234863183
+"Burundi","Vascular intestinal disorders",0.48630000836,0.091763297952277
+"Switzerland","Vascular intestinal disorders",3.31290257061,0.625134403552594
+"New Zealand","Appendicitis",10.75972522915,1.19946567445762
+"New Zealand","Inguinal, femoral, and abdominal hernia",91.53947032917,1.53615818496518
+"Lithuania","Vascular intestinal disorders",5.50168538242,1.03815090748047
+"Estonia","Vascular intestinal disorders",6.48832890795,1.22432746978657
+"Korea, Rep.","Vascular intestinal disorders",4.70322001088,0.887482977121397
+"Germany","Gastritis and duodenitis",740.54410200875,2.04794965023217
+"Turkiye","Gastritis and duodenitis",198.8745471945,0.549980829314936
+"India","Vascular intestinal disorders",0.78441604798,0.148016866732296
+"Moldova","Appendicitis",6.57628058339,0.733106344017818
+"Moldova","Inguinal, femoral, and abdominal hernia",223.54053471712,3.75131755561153
+"Germany","Vascular intestinal disorders",5.17621758213,0.976736146595303
+"Netherlands","Appendicitis",9.05943187187,1.00992147373394
+"Netherlands","Inguinal, femoral, and abdominal hernia",128.29323212492,2.15293684675748
+"Turkiye","Vascular intestinal disorders",1.3254622053,0.250110592594081
+"Algeria","Appendicitis",6.9493363635,0.774693614451796
+"Algeria","Inguinal, femoral, and abdominal hernia",279.57244025029,4.69160997804372
+"Israel","Cirrhosis and other chronic liver diseases",14653.232001242,1.27621189698056
+"Congo, Rep.","Appendicitis",3.28908411081,0.366658386464412
+"Congo, Rep.","Inguinal, femoral, and abdominal hernia",211.26522404622,3.54532096318768
+"Uganda","Paralytic ileus and intestinal obstruction",6.10267404647,0.592520274992499
+"Uganda","Pancreatitis",29.56185818761,0.363357750576427
+"Botswana","Paralytic ileus and intestinal obstruction",7.06111791095,0.685577419749404
+"Botswana","Pancreatitis",27.71629816599,0.340673163776985
+"Zambia","Paralytic ileus and intestinal obstruction",6.22470466464,0.604368460703388
+"Tanzania","Paralytic ileus and intestinal obstruction",6.40057342356,0.621443894292724
+"Zambia","Pancreatitis",26.8441766728,0.329953536411758
+"Tanzania","Pancreatitis",27.47462060919,0.337702599042984
+"Nepal","Vascular intestinal disorders",0.97717316237,0.184389534254638
+"Portugal","Gastritis and duodenitis",329.52442914707,0.911288655981657
+"Austria","Cirrhosis and other chronic liver diseases",11753.482691896,1.02366047579684
+"Mexico","Cirrhosis and other chronic liver diseases",19120.0423005829,1.66524528190827
+"Slovak Republic","Cirrhosis and other chronic liver diseases",12690.8972359914,1.10530386979181
+"Kenya","Appendicitis",2.72964365489,0.304293445958215
+"Kenya","Inguinal, femoral, and abdominal hernia",262.80931156354,4.41030162826654
+"Romania","Appendicitis",7.98190590199,0.889801732134384
+"Romania","Inguinal, femoral, and abdominal hernia",217.6514678892,3.65249091638164
+"Sweden","Cirrhosis and other chronic liver diseases",10651.7998793933,0.927710264137332
+"Kuwait","Cirrhosis and other chronic liver diseases",33782.2142147418,2.94223579368327
+"Greece","Appendicitis",6.43595222103,0.71746290980189
+"Greece","Inguinal, femoral, and abdominal hernia",73.80320350741,1.23851923915307
+"Chile","Appendicitis",8.3473264963,0.930537852275007
+"Chile","Inguinal, femoral, and abdominal hernia",172.17969809663,2.88941209256361
+"Guatemala","Appendicitis",8.54768592683,0.952873390995227
+"Guatemala","Inguinal, femoral, and abdominal hernia",342.11634231506,5.7411826567032
+"Portugal","Vascular intestinal disorders",4.99561486766,0.942656976506883
+"Mexico","Gastritis and duodenitis",264.15320062236,0.730506735999739
+"Slovak Republic","Gastritis and duodenitis",455.01101051106,1.25831754962367
+"Kuwait","Gastritis and duodenitis",184.18245145255,0.509350335797687
+"Sweden","Gastritis and duodenitis",249.41817697596,0.689757526815637
+"Mexico","Vascular intestinal disorders",1.98755888376,0.375046175021135
+"Congo, Dem. Rep.","Appendicitis",3.14030087317,0.350072425142614
+"Congo, Dem. Rep.","Inguinal, femoral, and abdominal hernia",258.95606163009,4.34563879590908
+"Brazil","Appendicitis",7.03919652434,0.784710987213028
+"Brazil","Inguinal, femoral, and abdominal hernia",250.60243909987,4.20545352306708
+"Belgium","Appendicitis",14.7979369739,1.64963482570108
+"Belgium","Inguinal, femoral, and abdominal hernia",174.66313564608,2.93108758953469
+"Burundi","Appendicitis",3.22935960635,0.360000456870663
+"Burundi","Inguinal, femoral, and abdominal hernia",224.87298139019,3.77367784298817
+"Pakistan","Vascular intestinal disorders",0.68223720324,0.128736036764974
+"Kuwait","Vascular intestinal disorders",2.31953335441,0.437688724351001
+"Zimbabwe","Pancreatitis",25.61805347355,0.314882718982704
+"Sweden","Vascular intestinal disorders",2.6959908048,0.508725073503023
+"Mozambique","Cirrhosis and other chronic liver diseases",22867.4913735197,1.99162645773387
+"Morocco","Cirrhosis and other chronic liver diseases",29270.0185208442,2.54924960295289
+"Qatar","Cirrhosis and other chronic liver diseases",33864.5101351158,2.94940329315679
+"South Africa","Paralytic ileus and intestinal obstruction",9.65065375306,0.937000398854355
+"Lesotho","Paralytic ileus and intestinal obstruction",5.13099714192,0.498178309109387
+"Slovak Republic","Vascular intestinal disorders",2.25494665154,0.425501414547733
+"Lesotho","Pancreatitis",25.9771162633,0.319296117043518
+"South Africa","Pancreatitis",44.5523106732,0.547611969669113
+"Bulgaria","Cirrhosis and other chronic liver diseases",15143.7853649485,1.31893626241837
+"Israel","Gastritis and duodenitis",324.27461253945,0.896770465834446
+"Saudi Arabia","Cirrhosis and other chronic liver diseases",33784.9817403682,2.94247682918515
+"Namibia","Paralytic ileus and intestinal obstruction",7.41270937345,0.719714106136254
+"Namibia","Pancreatitis",29.11226396897,0.357831591059646
+"Cameroon","Paralytic ileus and intestinal obstruction",6.51491821209,0.632545848129329
+"Cameroon","Pancreatitis",28.05811217516,0.344874549518683
+"Benin","Paralytic ileus and intestinal obstruction",6.46026066571,0.627239042593774
+"Zimbabwe","Paralytic ileus and intestinal obstruction",5.76917223253,0.560139947122862
+"Benin","Pancreatitis",25.20643138945,0.309823291607843
+"Canada","Cirrhosis and other chronic liver diseases",10921.4519416487,0.951195401741553
+"Mozambique","Gastritis and duodenitis",503.69978303593,1.39296470215931
+"Tanzania","Cirrhosis and other chronic liver diseases",21748.2493901605,1.8941469436825
+"Congo, Dem. Rep.","Cirrhosis and other chronic liver diseases",32863.6167449196,2.8622312582044
+"Qatar","Gastritis and duodenitis",207.70544060666,0.574402366162794
+"China","Peptic ulcer disease",77.66437943668,0.77518524069953
+"Serbia","Peptic ulcer disease",88.76304602331,0.885963471232037
+"Austria","Gastritis and duodenitis",531.74521691103,1.47052340033721
+"Germany","Inflammatory bowel disease",240.97123535321,1.31215544800003
+"Botswana","Cirrhosis and other chronic liver diseases",20564.1480815017,1.79101855690662
+"Romania","Peptic ulcer disease",54.57587256422,0.544733779075314
+"Russian Federation","Peptic ulcer disease",88.84559644676,0.886787425151917
+"Sweden","Peptic ulcer disease",39.65856777302,0.39584088133984
+"Namibia","Cirrhosis and other chronic liver diseases",19240.8997750584,1.67577127008286
+"Moldova","Peptic ulcer disease",82.82788321909,0.826723306817522
+"Sri Lanka","Peptic ulcer disease",54.21597008703,0.54114151334896
+"Mauritius","Cirrhosis and other chronic liver diseases",19928.2410043131,1.73563472232232
+"Poland","Peptic ulcer disease",122.42082666253,1.22190917730052
+"Hungary","Peptic ulcer disease",88.84552995275,0.886786761460589
+"Kenya","Cirrhosis and other chronic liver diseases",21956.4046453644,1.91227606448586
+"Viet Nam","Inflammatory bowel disease",6.13266882519,0.0333940887092099
+"Uganda","Cirrhosis and other chronic liver diseases",20345.1658990515,1.77194647325668
+"Germany","Gallbladder and biliary diseases",4092.07519146181,1.31167238413983
+"Tanzania","Gastritis and duodenitis",393.61413863518,1.08852657844114
+"Canada","Gastritis and duodenitis",352.72892755741,0.975459910974256
+"Thailand","Inflammatory bowel disease",5.62252049893,0.0306161890789533
+"Saudi Arabia","Gastritis and duodenitis",185.01493168091,0.511652531693745
+"France","Peptic ulcer disease",23.05565360074,0.230123545898491
+"Mozambique","Vascular intestinal disorders",0.67724731704,0.127794460770224
+"Botswana","Gastritis and duodenitis",666.3863728721,1.84286896018892
+"Qatar","Vascular intestinal disorders",3.31568018006,0.625658529810405
+"Rwanda","Cirrhosis and other chronic liver diseases",17738.3151050452,1.54490482151172
+"Mauritius","Gastritis and duodenitis",408.67397581668,1.13017404846318
+"Congo, Dem. Rep.","Gastritis and duodenitis",598.68988449857,1.655656612794
+"Namibia","Gastritis and duodenitis",564.24539496403,1.56040154276733
+"Viet Nam","Gallbladder and biliary diseases",2462.22944619895,0.78924218566017
+"Bulgaria","Gastritis and duodenitis",512.91996505559,1.41846280347565
+"Uganda","Gastritis and duodenitis",512.30524477529,1.41676281534582
+"Saudi Arabia","Vascular intestinal disorders",1.52346203463,0.287472544107474
+"Tanzania","Vascular intestinal disorders",0.61140647507,0.115370498822337
+"China","Inflammatory bowel disease",11.904935402,0.0648256868622747
+"Rwanda","Gastritis and duodenitis",515.38565010316,1.42528157202307
+"Mauritius","Vascular intestinal disorders",0.68038051891,0.128385686210896
+"Congo, Dem. Rep.","Vascular intestinal disorders",0.82801917462,0.156244641013054
+"Thailand","Gallbladder and biliary diseases",2042.32300829878,0.654645519483216
+"Namibia","Vascular intestinal disorders",1.12720214516,0.212699536336818
+"Sweden","Inflammatory bowel disease",222.09838413065,1.2093875200576
+"Bulgaria","Vascular intestinal disorders",2.74907837961,0.518742533632794
+"Malta","Peptic ulcer disease",20.17779500704,0.201399006761789
+"Uganda","Vascular intestinal disorders",0.64513059691,0.121734135646073
+"Lesotho","Cirrhosis and other chronic liver diseases",20716.979174455,1.80432926262937
+"Romania","Cirrhosis and other chronic liver diseases",16016.9970683138,1.3949879597042
+"Serbia","Inflammatory bowel disease",66.81142907199,0.363806827470419
+"Moldova","Inflammatory bowel disease",35.55913912784,0.193629410018147
+"Serbia","Gallbladder and biliary diseases",4418.78944576978,1.41639725961983
+"China","Gallbladder and biliary diseases",4411.8777377904,1.41418178310495
+"Botswana","Vascular intestinal disorders",1.36601426942,0.257762640873851
+"Sweden","Gallbladder and biliary diseases",4087.53765561758,1.31021792395021
+"Russian Federation","Inflammatory bowel disease",35.13828905929,0.191337764256239
+"France","Inflammatory bowel disease",138.22834608441,0.75269181865974
+"Romania","Inflammatory bowel disease",15.25768319141,0.0830823317734233
+"Poland","Inflammatory bowel disease",29.25209377841,0.159285792598801
+"Hungary","Inflammatory bowel disease",181.37277378845,0.987625236250924
+"Rwanda","Vascular intestinal disorders",0.56285934893,0.106209807224294
+"Moldova","Gallbladder and biliary diseases",3992.2380174894,1.27967061049613
+"Russian Federation","Gallbladder and biliary diseases",2557.47743575186,0.819772943697576
+"France","Gallbladder and biliary diseases",3797.0728130394,1.21711242252436
+"Romania","Gallbladder and biliary diseases",6573.34789844206,2.10701869010623
+"Poland","Gallbladder and biliary diseases",5583.06381482733,1.78959336819599
+"Hungary","Gallbladder and biliary diseases",5673.04475695079,1.81843582864943
+"Lithuania","Peptic ulcer disease",88.6833323048,0.885167831087631
+"Mauritius","Appendicitis",4.3915805082,0.489561765195669
+"Mauritius","Inguinal, femoral, and abdominal hernia",62.73090564545,1.05271085588561
+"Lesotho","Gastritis and duodenitis",650.16531198912,1.7980101653223
+"Malta","Inflammatory bowel disease",94.46576466966,0.514392382057943
+"Albania","Peptic ulcer disease",45.61368637256,0.455280228933447
+"Malta","Gallbladder and biliary diseases",2936.9991970672,0.941424719436235
+"Niger","Paralytic ileus and intestinal obstruction",5.95195293454,0.577886474463763
+"Mauritania","Paralytic ileus and intestinal obstruction",8.40073503714,0.815643404258915
+"Ghana","Paralytic ileus and intestinal obstruction",7.26224958808,0.705105678302178
+"Mauritania","Pancreatitis",23.97511133589,0.294688597365628
+"Mali","Paralytic ileus and intestinal obstruction",6.40100253316,0.621485557363086
+"Niger","Pancreatitis",24.02940757106,0.295355976180279
+"Mali","Pancreatitis",24.37803063186,0.299641054958732
+"Ghana","Pancreatitis",26.36520807499,0.324066323531144
+"Cote d'Ivoire","Paralytic ileus and intestinal obstruction",6.74021593867,0.654420434563383
+"Cote d'Ivoire","Pancreatitis",27.8890852245,0.342796965214313
+"Gambia, The","Paralytic ileus and intestinal obstruction",7.2544301925,0.704346478255763
+"Gambia, The","Pancreatitis",25.71833808538,0.316115361083235
+"Luxembourg","Cirrhosis and other chronic liver diseases",11022.8242795714,0.960024347032984
+"Lesotho","Vascular intestinal disorders",0.71655526961,0.135211749072849
+"Switzerland","Appendicitis",14.53872185866,1.62073821111201
+"Switzerland","Inguinal, femoral, and abdominal hernia",166.82027203987,2.79947355376496
+"Lithuania","Inflammatory bowel disease",52.16841780209,0.284071555396299
+"United States","Appendicitis",8.97043196673,1
+"United States","Inguinal, femoral, and abdominal hernia",59.58987246567,1
+"Portugal","Peptic ulcer disease",20.46046733973,0.204220421441785
+"Lithuania","Gallbladder and biliary diseases",6545.35170542635,2.09804479995964
+"Bolivia","Appendicitis",9.09525261268,1.01391467505834
+"Bolivia","Inguinal, femoral, and abdominal hernia",291.08374753404,4.88478554307588
+"Switzerland","Inflammatory bowel disease",147.08912258264,0.800941212985253
+"Albania","Inflammatory bowel disease",63.86760171393,0.347776868126151
+"Gabon","Cirrhosis and other chronic liver diseases",24662.934420409,2.14799917991536
+"Estonia","Peptic ulcer disease",69.28379399511,0.691536775472005
+"Switzerland","Gallbladder and biliary diseases",3964.02441652556,1.27062703248011
+"Pakistan","Cirrhosis and other chronic liver diseases",22255.0055849883,1.93828248215298
+"Niger","Gastritis and duodenitis",305.50980792652,0.844877033776202
+"Uganda","Appendicitis",3.21424097979,0.358315072419159
+"Uganda","Inguinal, femoral, and abdominal hernia",181.44602676459,3.04491382942835
+"Mali","Cirrhosis and other chronic liver diseases",27895.5318031172,2.42953974636587
+"Bangladesh","Appendicitis",9.33421447933,1.04055351112959
+"Bangladesh","Inguinal, femoral, and abdominal hernia",282.36815106056,4.7385258497278
+"Austria","Vascular intestinal disorders",3.07673049109,0.58056946724077
+"Iceland","Appendicitis",11.20770232412,1.24940497466429
+"Iceland","Inguinal, femoral, and abdominal hernia",64.06638824221,1.07512209023637
+"Latvia","Peptic ulcer disease",65.38651037076,0.652637131049053
+"Belize","Appendicitis",6.52949420578,0.72789072254234
+"Belize","Inguinal, femoral, and abdominal hernia",248.10152539021,4.1634847520968
+"Estonia","Appendicitis",7.04632255674,0.785505378433699
+"Estonia","Inguinal, femoral, and abdominal hernia",175.92063875645,2.95219022087686
+"Luxembourg","Gastritis and duodenitis",493.76992419728,1.36550401361921
+"Gabon","Gastritis and duodenitis",495.69606526383,1.3708306915481
+"Pakistan","Gastritis and duodenitis",319.41347019757,0.883327141214376
+"Niger","Vascular intestinal disorders",0.53260547823,0.100500995989402
+"Mali","Gastritis and duodenitis",287.89669957039,0.796168578736732
+"Luxembourg","Vascular intestinal disorders",5.38801641747,1.01670192759291
+"Gabon","Vascular intestinal disorders",1.16366996277,0.219580900012507
+"Czechia","Peptic ulcer disease",65.9220010056,0.657981980768727
+"Portugal","Inflammatory bowel disease",75.7790546652,0.412638044858284
+"Togo","Paralytic ileus and intestinal obstruction",6.67639415906,0.648223856126279
+"Togo","Pancreatitis",25.04698293426,0.307863440787809
+"Mali","Vascular intestinal disorders",0.57539799855,0.108575811380616
+"Senegal","Paralytic ileus and intestinal obstruction",7.04192728139,0.683714164884801
+"Senegal","Pancreatitis",24.13438176326,0.296646259967729
+"Sierra Leone","Paralytic ileus and intestinal obstruction",6.32188492719,0.613803877940406
+"Sierra Leone","Pancreatitis",26.55521800439,0.326401818820236
+"Haiti","Peptic ulcer disease",86.42631118236,0.862640007202949
+"Congo, Rep.","Cirrhosis and other chronic liver diseases",24467.4265088814,2.13097156971822
+"Portugal","Gallbladder and biliary diseases",2805.04776792146,0.899129053408548
+"Colombia","Cirrhosis and other chronic liver diseases",20755.1921301247,1.80765739041989
+"Estonia","Inflammatory bowel disease",42.09316994204,0.229209026471893
+"Zimbabwe","Cirrhosis and other chronic liver diseases",27316.1292316059,2.37907712795915
+"Latvia","Inflammatory bowel disease",43.51227286825,0.236936436895672
+"Zimbabwe","Vascular intestinal disorders",0.68941363964,0.130090207976753
+"Cameroon","Cirrhosis and other chronic liver diseases",26156.9633071804,2.27812046916872
+"Haiti","Cirrhosis and other chronic liver diseases",18154.4473552672,1.58114753768557
+"Latvia","Gallbladder and biliary diseases",5085.7171093362,1.63017402509673
+"Egypt, Arab Rep.","Appendicitis",6.23389190363,0.69493776071772
+"Egypt, Arab Rep.","Inguinal, femoral, and abdominal hernia",265.89162335089,4.46202705844137
+"Bulgaria","Peptic ulcer disease",61.33388067469,0.612186943341374
+"Mauritania","Cirrhosis and other chronic liver diseases",35660.5688248618,3.10582963427627
+"Estonia","Gallbladder and biliary diseases",3780.34489961817,1.21175046287008
+"Czechia","Inflammatory bowel disease",249.65469677246,1.35943931236693
+"Colombia","Gastritis and duodenitis",303.47654885495,0.839254124629862
+"Congo, Rep.","Gastritis and duodenitis",586.74051604719,1.62261103877063
+"Zimbabwe","Gastritis and duodenitis",599.40658073071,1.65763861196725
+"Cote d'Ivoire","Cirrhosis and other chronic liver diseases",23717.3810156244,2.06564693814956
+"Turkiye","Peptic ulcer disease",69.80287867954,0.696717873794839
+"Namibia","Peptic ulcer disease",76.734946269,0.765908363976533
+"Cameroon","Gastritis and duodenitis",255.95852597196,0.707844640604569
+"Czechia","Gallbladder and biliary diseases",5565.26320943347,1.7838875682232
+"Haiti","Gastritis and duodenitis",552.07335656823,1.52674018254898
+"Congo, Rep.","Vascular intestinal disorders",0.91254707251,0.172194792248951
+"Haiti","Inflammatory bowel disease",20.73476668251,0.112906575864066
+"Colombia","Vascular intestinal disorders",2.88891342139,0.545128970775374
+"Cameroon","Vascular intestinal disorders",0.60980315966,0.115067958194844
+"Cote d'Ivoire","Gastritis and duodenitis",252.44314566423,0.698122975342338
+"Haiti","Vascular intestinal disorders",0.63936040451,0.120645318300112
+"Egypt, Arab Rep.","Cirrhosis and other chronic liver diseases",38726.7189808933,3.37287360837867
+"Haiti","Gallbladder and biliary diseases",4779.28656647501,1.53195088355557
+"Turkiye","Inflammatory bowel disease",38.42510132019,0.209235371862274
+"Bulgaria","Inflammatory bowel disease",64.25087700243,0.349863908752191
+"Namibia","Inflammatory bowel disease",15.72082664838,0.0856042768071448
+"Croatia","Peptic ulcer disease",69.39732213562,0.69266992479433
+"Bulgaria","Gallbladder and biliary diseases",4998.83625463213,1.6023252656058
+"Namibia","Gallbladder and biliary diseases",1837.62344463758,0.589031191266546
+"Cote d'Ivoire","Vascular intestinal disorders",0.5758293815,0.108657212000587
+"Kenya","Gastritis and duodenitis",561.65812977872,1.55324654846389
+"Mozambique","Appendicitis",3.43573168785,0.383006269998214
+"Mozambique","Inguinal, femoral, and abdominal hernia",216.14313613033,3.62717903541161
+"Turkiye","Gallbladder and biliary diseases",3260.81667759431,1.04522106403796
+"Bahrain","Appendicitis",7.85247273806,0.875372865786581
+"Bahrain","Inguinal, femoral, and abdominal hernia",228.90721656613,3.84137785658133
+"South Africa","Cirrhosis and other chronic liver diseases",19168.8507963407,1.66949622005997
+"Egypt, Arab Rep.","Gastritis and duodenitis",182.35785713083,0.504304481954754
+"Zambia","Cirrhosis and other chronic liver diseases",20205.8474948723,1.75981264470154
+"Croatia","Inflammatory bowel disease",78.23915477146,0.426033974676725
+"Ghana","Cirrhosis and other chronic liver diseases",27161.6360755106,2.36562166613379
+"South Africa","Gastritis and duodenitis",642.43905294323,1.77664345742778
+"Egypt, Arab Rep.","Vascular intestinal disorders",0.91976110547,0.173556057814581
+"Croatia","Gallbladder and biliary diseases",4919.71045345853,1.57696230832464
+"Ghana","Gastritis and duodenitis",233.73790547392,0.646394266678878
+"Zambia","Gastritis and duodenitis",467.77690054168,1.29362118643908
+"Finland","Peptic ulcer disease",35.04491818839,0.349791030820136
+"Tunisia","Appendicitis",7.17176831132,0.799489738946689
+"Tunisia","Inguinal, femoral, and abdominal hernia",275.60429595685,4.62501906033826
+"Mali","Appendicitis",2.79887839758,0.312011551724669
+"Mali","Inguinal, femoral, and abdominal hernia",283.93396155091,4.76480230284912
+"Niger","Cirrhosis and other chronic liver diseases",32216.0256131137,2.80582980992871
+"Lesotho","Appendicitis",3.40486427874,0.379565252974231
+"Lesotho","Inguinal, femoral, and abdominal hernia",258.94466450887,4.34544753654321
+"Singapore","Appendicitis",12.81795577938,1.42891176555598
+"Singapore","Inguinal, femoral, and abdominal hernia",134.33486687378,2.25432378549175
+"South Africa","Vascular intestinal disorders",1.13952408261,0.215024647581186
+"Zambia","Vascular intestinal disorders",0.63779689572,0.120350289057913
+"Gambia, The","Appendicitis",3.05981269983,0.341099816728825
+"Gambia, The","Inguinal, femoral, and abdominal hernia",245.55772746549,4.12079632502917
+"Benin","Cirrhosis and other chronic liver diseases",25972.4532233167,2.26205070625773
+"Togo","Cirrhosis and other chronic liver diseases",26837.7214025236,2.33741056845667
+"Ghana","Vascular intestinal disorders",0.7025777094,0.132574226966852
+"Togo","Gastritis and duodenitis",296.72122407469,0.82057250258546
+"Benin","Gastritis and duodenitis",268.84495609619,0.743481626969152
+"Finland","Inflammatory bowel disease",185.20741013417,1.00850589847918
+"Mauritania","Appendicitis",3.19383102002,0.356039824154003
+"Mauritania","Inguinal, femoral, and abdominal hernia",208.77979603014,3.50361206344952
+"Jordan","Appendicitis",8.36440296635,0.932441491933981
+"Jordan","Inguinal, femoral, and abdominal hernia",257.05825849088,4.31379104962798
+"Benin","Vascular intestinal disorders",0.56334044134,0.106300587864645
+"Finland","Gallbladder and biliary diseases",4104.49673327873,1.315653980911
+"Togo","Vascular intestinal disorders",0.61954472834,0.116906161883797
+"Honduras","Peptic ulcer disease",58.98069457052,0.588699275638331
+"Gambia, The","Cirrhosis and other chronic liver diseases",21502.2329239149,1.87272033001466
+"Mauritania","Gastritis and duodenitis",260.11263258157,0.719332681836821
+"Norway","Peptic ulcer disease",77.74759896366,0.776015873088803
+"Austria","Appendicitis",10.38313399455,1.15748428091975
+"Austria","Inguinal, femoral, and abdominal hernia",217.25081598212,3.6457674264579
+"Cote d'Ivoire","Appendicitis",2.82003252179,0.314369757470887
+"Cote d'Ivoire","Inguinal, femoral, and abdominal hernia",259.46581360853,4.35419313505008
+"Cameroon","Peptic ulcer disease",87.47815508363,0.873138692362072
+"Botswana","Peptic ulcer disease",83.03800096877,0.828820538258015
+"Norway","Inflammatory bowel disease",234.82081359687,1.27866468963939
+"Honduras","Inflammatory bowel disease",5.15553038706,0.0280732979386303
+"Cote d'Ivoire","Peptic ulcer disease",92.19126305984,0.920181258947696
+"Sudan","Paralytic ileus and intestinal obstruction",3.08472419861,0.299501762099461
+"Senegal","Peptic ulcer disease",90.85277654083,0.906821530820881
+"Sudan","Pancreatitis",41.02091076309,0.504205986202851
+"Bangladesh","Peptic ulcer disease",60.97029290922,0.608557893942724
+"Mauritania","Peptic ulcer disease",77.06649327434,0.769217607506216
+"Botswana","Inflammatory bowel disease",14.36781045685,0.078236727048162
+"Zimbabwe","Appendicitis",3.49339189656,0.389434077368456
+"Zimbabwe","Inguinal, femoral, and abdominal hernia",350.39881680368,5.88017396757388
+"Norway","Gallbladder and biliary diseases",4064.88932190339,1.30295823479746
+"Cameroon","Inflammatory bowel disease",13.57690399044,0.073930021199071
+"Honduras","Gallbladder and biliary diseases",6355.90877465234,2.03732082763742
+"Egypt, Arab Rep.","Peptic ulcer disease",64.47653370987,0.643554453996594
+"Zambia","Appendicitis",3.42692473922,0.382024494687653
+"Zambia","Inguinal, femoral, and abdominal hernia",183.48810926229,3.0791827817386
+"Botswana","Gallbladder and biliary diseases",2140.33199798187,0.686061287559274
+"Nepal","Cirrhosis and other chronic liver diseases",14572.3783887624,1.26917001419651
+"Sierra Leone","Cirrhosis and other chronic liver diseases",26752.0874428719,2.32995234503647
+"Cameroon","Gallbladder and biliary diseases",1020.23126425149,0.327024580962478
+"Cote d'Ivoire","Inflammatory bowel disease",12.88697833647,0.0701731839805343
+"Senegal","Inflammatory bowel disease",14.5764952411,0.0793730737833521
+"Mauritania","Inflammatory bowel disease",17.11790766978,0.0932117718296955
+"Senegal","Gallbladder and biliary diseases",1022.60675382624,0.327786019579371
+"Bangladesh","Inflammatory bowel disease",50.20587841359,0.27338498217622
+"Mauritania","Gallbladder and biliary diseases",976.30357274592,0.312944013731677
+"Cote d'Ivoire","Gallbladder and biliary diseases",1018.78312737264,0.326560395661972
+"Ghana","Peptic ulcer disease",56.17597263441,0.560704729555448
+"Sierra Leone","Gastritis and duodenitis",274.73178628457,0.759761456614094
+"Egypt, Arab Rep.","Inflammatory bowel disease",39.49125183623,0.215040858172535
+"Bangladesh","Gallbladder and biliary diseases",423.35786863223,0.135702986604902
+"Egypt, Arab Rep.","Gallbladder and biliary diseases",2891.40460380896,0.926809844086997
+"Sierra Leone","Peptic ulcer disease",109.75176194299,1.09545645785194
+"Ghana","Inflammatory bowel disease",17.497785525,0.0952803124858899
+"Uganda","Peptic ulcer disease",73.46928427862,0.733313073903818
+"Kenya","Vascular intestinal disorders",0.83393775974,0.157361459603402
+"Iraq","Appendicitis",7.05412055909,0.786374679084874
+"Iraq","Inguinal, femoral, and abdominal hernia",281.16445764572,4.71832621906852
+"Senegal","Cirrhosis and other chronic liver diseases",28349.3564876055,2.4690652559216
+"Sudan","Cirrhosis and other chronic liver diseases",26843.9165062113,2.33795012621624
+"Sierra Leone","Vascular intestinal disorders",0.51828314938,0.0977984171141408
+"Mauritania","Vascular intestinal disorders",0.64084772887,0.120925971777497
+"Turkiye","Appendicitis",7.05752919199,0.786754664453766
+"Turkiye","Inguinal, femoral, and abdominal hernia",279.92393857772,4.6975086033115
+"Tanzania","Appendicitis",3.27604822144,0.365205180039309
+"Tanzania","Inguinal, femoral, and abdominal hernia",178.08927030663,2.98858284030106
+"Ghana","Gallbladder and biliary diseases",1072.98671957711,0.343934796592855
+"Sierra Leone","Inflammatory bowel disease",12.91726735545,0.0703381161194717
+"Senegal","Gastritis and duodenitis",253.73405461414,0.701692940352225
+"Costa Rica","Appendicitis",9.29052050509,1.03568262259244
+"Costa Rica","Inguinal, femoral, and abdominal hernia",216.6109681119,3.63502989936236
+"Gabon","Appendicitis",3.35244655082,0.373721863479231
+"Gabon","Inguinal, femoral, and abdominal hernia",176.13831092914,2.95584305924827
+"Sudan","Gastritis and duodenitis",215.93905423718,0.597172145989588
+"Uruguay","Appendicitis",7.85119339736,0.875230248273317
+"Uruguay","Inguinal, femoral, and abdominal hernia",175.53895847505,2.94578510091927
+"Benin","Appendicitis",2.85641052268,0.318425080673261
+"Benin","Inguinal, femoral, and abdominal hernia",240.39442818409,4.03414906320839
+"Gambia, The","Gastritis and duodenitis",261.64931515716,0.723582325490266
+"Uganda","Inflammatory bowel disease",12.14574537317,0.0661369641819112
+"Jamaica","Peptic ulcer disease",51.89968625056,0.518022175290432
+"Luxembourg","Peptic ulcer disease",33.25110925041,0.331886629556095
+"Sierra Leone","Gallbladder and biliary diseases",1065.94442675411,0.341677462456809
+"United Kingdom","Peptic ulcer disease",40.23675830343,0.401611928102036
+"Algeria","Peptic ulcer disease",58.25249189857,0.581430924720858
+"Uganda","Gallbladder and biliary diseases",1168.2022839059,0.374455161059997
+"Senegal","Vascular intestinal disorders",0.63004620059,0.118887757011184
+"Sudan","Vascular intestinal disorders",0.68940557498,0.130088686200512
+"Luxembourg","Inflammatory bowel disease",156.17992128801,0.850443142252612
+"El Salvador","Peptic ulcer disease",32.16392462537,0.321035200865629
+"Gambia, The","Vascular intestinal disorders",0.58902739426,0.111147635929137
+"Jamaica","Inflammatory bowel disease",31.54518616202,0.171772318882782
+"Luxembourg","Gallbladder and biliary diseases",4367.40910814998,1.39992782374917
+"Algeria","Inflammatory bowel disease",36.7889836412,0.20032625570611
+"United Kingdom","Inflammatory bowel disease",148.66683235904,0.809532281854663
+"Korea, Rep.","Appendicitis",13.03547039582,1.45315971897079
+"Korea, Rep.","Inguinal, femoral, and abdominal hernia",139.97894837349,2.34903923404321
+"Congo, Dem. Rep.","Gallbladder and biliary diseases",1153.61759843589,0.369780190961136
+"United Kingdom","Gallbladder and biliary diseases",3926.39799717411,1.25856627287326
+"Jamaica","Gallbladder and biliary diseases",3309.89554845675,1.06095278854032
+"Sudan","Appendicitis",5.92405244309,0.660397678178869
+"Sudan","Inguinal, femoral, and abdominal hernia",327.00209806734,5.48754485513839
+"Algeria","Gallbladder and biliary diseases",2700.9510344213,0.865761922008759
+"Japan","Appendicitis",14.11709810706,1.57373671183486
+"Japan","Inguinal, femoral, and abdominal hernia",156.26279867909,2.62230463354513
+"El Salvador","Inflammatory bowel disease",5.74295473318,0.0312719870058935
+"El Salvador","Gallbladder and biliary diseases",4744.12135722378,1.52067903939357
+"Gabon","Peptic ulcer disease",62.64517861651,0.625275296303588
+"Nepal","Appendicitis",8.45820451546,0.942898240221901
+"Nepal","Inguinal, femoral, and abdominal hernia",258.40527061507,4.33639576530288
+"Gabon","Inflammatory bowel disease",15.13768280951,0.0824288962932866
+"Korea, Rep.","Inflammatory bowel disease",70.17863974797,0.382142226824515
+"Gabon","Gallbladder and biliary diseases",1110.83464913152,0.356066559004497
+"Israel","Peptic ulcer disease",11.23200560688,0.11210911659967
+"Korea, Rep.","Gallbladder and biliary diseases",4166.52207156419,1.33553556165901
+"Spain","Appendicitis",8.99615385128,1.0028674075725
+"Spain","Inguinal, femoral, and abdominal hernia",83.56006800912,1.40225284182743
+"Mauritius","Peptic ulcer disease",68.06577348951,0.679379445101777
+"Switzerland","Peptic ulcer disease",28.47253358201,0.284190615545841
+"Congo, Rep.","Peptic ulcer disease",74.55440734008,0.744143925675089
+"Niger","Appendicitis",2.84118902725,0.316728228672549
+"Niger","Inguinal, femoral, and abdominal hernia",304.62328337134,5.11199757218536
+"Senegal","Appendicitis",2.93600223276,0.327297753736854
+"Senegal","Inguinal, femoral, and abdominal hernia",256.83598002382,4.31006091130308
+"Israel","Inflammatory bowel disease",133.45578512647,0.726703895857692
+"South Africa","Appendicitis",4.1472131187,0.462320335752102
+"South Africa","Inguinal, femoral, and abdominal hernia",216.2343171224,3.62870917783846
+"Singapore","Peptic ulcer disease",74.58731147801,0.744472349107637
+"Ukraine","Appendicitis",6.79784865498,0.757806165878322
+"Ukraine","Inguinal, femoral, and abdominal hernia",209.20052541974,3.51067248113782
+"Denmark","Peptic ulcer disease",41.01875386347,0.409417197658459
+"Israel","Gallbladder and biliary diseases",4128.30835604596,1.32328655033946
+"Mauritius","Inflammatory bowel disease",6.74124706659,0.0367079666242099
+"Congo, Rep.","Inflammatory bowel disease",15.2371682649,0.0829706222884885
+"Mauritius","Gallbladder and biliary diseases",2142.0425917498,0.686609600701359
+"Singapore","Inflammatory bowel disease",8.99161993604,0.0489618732631167
+"Denmark","Inflammatory bowel disease",207.41418592068,1.1294279736309
+"Qatar","Appendicitis",8.07572418088,0.900260345413873
+"Qatar","Inguinal, femoral, and abdominal hernia",261.29948246416,4.38496461986382
+"Greece","Peptic ulcer disease",37.24831490757,0.371783617749986
+"Congo, Rep.","Gallbladder and biliary diseases",1183.83888837253,0.379467312914731
+"Australia","Peptic ulcer disease",29.52821225492,0.294727576403532
+"Denmark","Gallbladder and biliary diseases",3779.02590988633,1.21132767435197
+"Ghana","Appendicitis",3.73719135367,0.416612195213195
+"Ghana","Inguinal, femoral, and abdominal hernia",232.20173222892,3.89666435958044
+"Zimbabwe","Peptic ulcer disease",102.11354290843,1.01921771489451
+"Singapore","Gallbladder and biliary diseases",3954.19718642641,1.26747701550082
+"Portugal","Appendicitis",7.31299768635,0.815233615668991
+"Portugal","Inguinal, femoral, and abdominal hernia",143.47377457301,2.40768722328892
+"Ukraine","Peptic ulcer disease",83.6622120203,0.835050925956175
+"Australia","Inflammatory bowel disease",229.60323964056,1.25025354719709
+"Greece","Inflammatory bowel disease",39.0864743157,0.2128367319082
+"Zimbabwe","Inflammatory bowel disease",13.2422897264,0.0721079533954387
+"Australia","Gallbladder and biliary diseases",3792.70505452867,1.21571238270323
+"Jordan","Peptic ulcer disease",47.06409564627,0.469757082673976
+"India","Appendicitis",8.66363341286,0.96579890968374
+"India","Inguinal, femoral, and abdominal hernia",319.35994373461,5.35929899696622
+"Zimbabwe","Gallbladder and biliary diseases",1919.68999583907,0.615336775557175
+"Greece","Gallbladder and biliary diseases",4658.01404623395,1.49307823134059
+"Ukraine","Inflammatory bowel disease",30.41840783445,0.165636697263703
+"Jordan","Inflammatory bowel disease",42.04822612669,0.228964294887732
+"Ukraine","Gallbladder and biliary diseases",3741.99421199475,1.19945754655873
+"Benin","Peptic ulcer disease",97.82545293865,0.976417346444063
+"Jordan","Gallbladder and biliary diseases",3664.0140444737,1.17446181029724
+"Rwanda","Appendicitis",3.29628111523,0.367460689457923
+"Rwanda","Inguinal, femoral, and abdominal hernia",204.77156629006,3.4363484568293
+"Benin","Inflammatory bowel disease",13.35108414443,0.0727003692832553
+"Benin","Gallbladder and biliary diseases",1072.38878050704,0.343743133407573
+"Botswana","Appendicitis",3.99377213534,0.44521514127216
+"Botswana","Inguinal, femoral, and abdominal hernia",228.97471961719,3.84251065059928
+"Sierra Leone","Appendicitis",2.97856491426,0.332042528755254
+"Sierra Leone","Inguinal, femoral, and abdominal hernia",276.49733351374,4.64000545852874
+"Colombia","Peptic ulcer disease",22.09444041341,0.220529465814564
+"Namibia","Appendicitis",3.9264130272,0.437706126278253
+"Namibia","Inguinal, femoral, and abdominal hernia",256.94334526706,4.31186264771898
+"Pakistan","Appendicitis",5.90827554884,0.65863891178852
+"Pakistan","Inguinal, femoral, and abdominal hernia",277.94728214582,4.66433759035055
+"Colombia","Inflammatory bowel disease",12.7624911561,0.069495316633881
+"Dominican Republic","Peptic ulcer disease",51.58081930252,0.514839494199559
+"Colombia","Gallbladder and biliary diseases",4812.45652900072,1.54258317201369
+"New Zealand","Peptic ulcer disease",40.44918869074,0.403732242486999
+"Dominican Republic","Inflammatory bowel disease",26.09615315603,0.142100817491085
+"Dominican Republic","Gallbladder and biliary diseases",3427.3342830341,1.09859656040816
+"New Zealand","Inflammatory bowel disease",197.97119428953,1.07800825585392
+"New Zealand","Gallbladder and biliary diseases",3895.11001367999,1.2485372333311
+"Russian Federation","Appendicitis",6.98737208358,0.778933735799471
+"Russian Federation","Inguinal, femoral, and abdominal hernia",246.82200985256,4.14201272195632
+"Italy","Appendicitis",9.79235653593,1.09162597433974
+"Italy","Inguinal, femoral, and abdominal hernia",160.1017618813,2.68672771490718
+"Norway","Appendicitis",11.04979064119,1.23180139843566
+"Norway","Inguinal, femoral, and abdominal hernia",78.6663980252,1.32013033037653
+"Togo","Appendicitis",2.8994225449,0.323219947005175
+"Togo","Inguinal, femoral, and abdominal hernia",263.01160593827,4.41369640604269
+"Pakistan","Peptic ulcer disease",72.04552312408,0.719102200897608
+"Cameroon","Appendicitis",2.85651163475,0.318436352379058
+"Cameroon","Inguinal, femoral, and abdominal hernia",215.14887465921,3.61049396075077
+"Pakistan","Inflammatory bowel disease",38.23430411826,0.208196427991613
+"Pakistan","Gallbladder and biliary diseases",468.19544954402,0.150075209475182
+"Congo, Dem. Rep.","Peptic ulcer disease",79.00704528002,0.78858668358104
+"Spain","Peptic ulcer disease",22.2083291604,0.221666214429422
+"Niger","Peptic ulcer disease",125.50350373894,1.25267805472938
+"Cyprus","Peptic ulcer disease",20.17203084693,0.20134147341285
+"Congo, Dem. Rep.","Inflammatory bowel disease",11.46397607438,0.0624245405875548
+"Morocco","Peptic ulcer disease",68.20904713091,0.680809490806129
+"Cyprus","Inflammatory bowel disease",112.74587628455,0.613932677854525
+"Spain","Inflammatory bowel disease",107.90561251099,0.587576094377147
+"Niger","Inflammatory bowel disease",12.07822703248,0.0657693080239202
+"Spain","Gallbladder and biliary diseases",4728.07182587956,1.51553452809854
+"Cyprus","Gallbladder and biliary diseases",3048.07230753713,0.977028056326991
+"Morocco","Inflammatory bowel disease",30.78221705666,0.167617739740644
+"Niger","Gallbladder and biliary diseases",1107.62135010157,0.355036569231005
+"Zambia","Peptic ulcer disease",63.90080943147,0.637808023437757
+"Morocco","Gallbladder and biliary diseases",3005.89057686611,0.963507138785729
+"Burundi","Peptic ulcer disease",98.89198084771,0.987062595912277
+"Zambia","Inflammatory bowel disease",12.81597184622,0.0697865338773038
+"Zambia","Gallbladder and biliary diseases",1187.07215926018,0.380503704460669
+"Nepal","Peptic ulcer disease",66.28480749007,0.661603232030002
+"United States","Peptic ulcer disease",100.18815550022,1
+"Paraguay","Peptic ulcer disease",34.7762645053,0.3471095393629
+"Burundi","Inflammatory bowel disease",11.24181071991,0.061214788395359
+"Burundi","Gallbladder and biliary diseases",1237.96465606872,0.396816768004313
+"Nepal","Inflammatory bowel disease",44.4562626402,0.242076723952361
+"United States","Inflammatory bowel disease",183.64534150317,1
+"Kuwait","Peptic ulcer disease",52.98539114552,0.528858834469746
+"Paraguay","Inflammatory bowel disease",13.10651840549,0.0713686407627376
+"United States","Gallbladder and biliary diseases",3119.73877085573,1
+"Nepal","Gallbladder and biliary diseases",465.59635341341,0.14924209608925
+"Paraguay","Gallbladder and biliary diseases",4170.29158893205,1.33674384146855
+"Japan","Peptic ulcer disease",104.77939738855,1.04582619437804
+"Mali","Peptic ulcer disease",112.92719510101,1.12715115411783
+"Japan","Inflammatory bowel disease",28.16495314899,0.153366009278835
+"Kenya","Peptic ulcer disease",77.10765880118,0.769628489677212
+"Japan","Gallbladder and biliary diseases",3927.84702143583,1.25903074261517
+"Mali","Inflammatory bowel disease",12.31464136227,0.0670566498527676
+"Kenya","Inflammatory bowel disease",13.95544683052,0.0759912923262424
+"Kenya","Gallbladder and biliary diseases",1166.62573739761,0.373949815380731
+"Mali","Gallbladder and biliary diseases",1036.23362677872,0.332153972781024
+"Ecuador","Peptic ulcer disease",47.4580182916,0.473688911175691
+"Ecuador","Inflammatory bowel disease",13.47961758042,0.0734002696179871
+"Panama","Inflammatory bowel disease",9.45143259455,0.051465681172135
+"Panama","Gallbladder and biliary diseases",4074.14649856174,1.30592552704155
+"Ecuador","Gallbladder and biliary diseases",4664.68871940595,1.49521772879928
+"Korea, Rep.","Peptic ulcer disease",74.74207460268,0.746017073869734
+"Saudi Arabia","Peptic ulcer disease",52.86217304406,0.527628967517462
+"Tunisia","Peptic ulcer disease",59.04741590721,0.589365235964249
+"Saudi Arabia","Inflammatory bowel disease",29.16679817839,0.158821334315668
+"Qatar","Peptic ulcer disease",60.90974438101,0.607953545774942
+"Costa Rica","Peptic ulcer disease",17.99908892818,0.179652862539629
+"India","Peptic ulcer disease",97.14919359665,0.969667453319237
+"Nicaragua","Peptic ulcer disease",24.81769722252,0.247710890559967
+"Germany","Peptic ulcer disease",39.81911278888,0.397443316428683
+"Italy","Peptic ulcer disease",38.00102179096,0.379296550587525
+"Saudi Arabia","Gallbladder and biliary diseases",2892.21772322184,0.927070481105865
+"Tunisia","Inflammatory bowel disease",37.73839364189,0.205496057416946
+"Tunisia","Gallbladder and biliary diseases",2203.77253484408,0.706396495575684
+"Nicaragua","Inflammatory bowel disease",5.32394669509,0.028990371612547
+"Qatar","Inflammatory bowel disease",42.14916540457,0.229513937351046
+"India","Inflammatory bowel disease",48.83805523473,0.265936804249875
+"Costa Rica","Inflammatory bowel disease",6.78120273721,0.0369255363719256
+"Nicaragua","Gallbladder and biliary diseases",4604.81539446278,1.47602595367294
+"Canada","Peptic ulcer disease",68.93878583066,0.688093173154671
+"India","Gallbladder and biliary diseases",432.97863317199,0.13878682318431
+"Qatar","Gallbladder and biliary diseases",2197.8596201613,0.704501171922942
+"Costa Rica","Gallbladder and biliary diseases",4408.03412266409,1.41294975202523
+"Italy","Inflammatory bowel disease",89.61544878261,0.487981062024724
+"Togo","Peptic ulcer disease",101.8038733455,1.01612683492588
+"Chile","Peptic ulcer disease",38.71077458284,0.386380749196995
+"Italy","Gallbladder and biliary diseases",4481.94782162736,1.43664202384419
+"Peru","Peptic ulcer disease",40.83244452464,0.407557603199415
+"Canada","Inflammatory bowel disease",328.38914076394,1.78817027470458
+"Netherlands","Peptic ulcer disease",24.33909110874,0.242933817747414
+"Canada","Gallbladder and biliary diseases",2850.34126733198,0.913647416238682
+"Togo","Inflammatory bowel disease",13.67550751082,0.0744669448126673
+"Chile","Inflammatory bowel disease",55.78566517569,0.303768474163702
+"Togo","Gallbladder and biliary diseases",1083.25578618122,0.347226439694529
+"Peru","Inflammatory bowel disease",13.09887925315,0.0713270434519783
+"Chile","Gallbladder and biliary diseases",4795.3822229617,1.53711017978802
+"Netherlands","Inflammatory bowel disease",276.75406429463,1.50700291131454
+"Peru","Gallbladder and biliary diseases",4273.38083489048,1.36978803315584
+"South Africa","Peptic ulcer disease",59.77882692839,0.596665610120537
+"Netherlands","Gallbladder and biliary diseases",3883.53755298192,1.24482780073175
+"Panama","Peptic ulcer disease",15.98315409397,0.159531373885159
+"Tanzania","Peptic ulcer disease",50.46589339868,0.503711173708245
+"South Africa","Inflammatory bowel disease",17.10515211401,0.0931423142781694
+"Gambia, The","Peptic ulcer disease",93.61621128485,0.934403980365168
+"South Africa","Gallbladder and biliary diseases",1614.44113743993,0.517492410749858
+"Brazil","Peptic ulcer disease",41.05723200446,0.409801256440636
+"Tanzania","Inflammatory bowel disease",13.67468242019,0.0744624519645327
+"Gambia, The","Inflammatory bowel disease",14.66678382314,0.079864720243322
+"Tanzania","Gallbladder and biliary diseases",1171.65697626144,0.375562526967622
+"Brazil","Inflammatory bowel disease",24.63169456152,0.134126432829198
+"Gambia, The","Gallbladder and biliary diseases",1024.64389552134,0.328439004282492
+"Brazil","Gallbladder and biliary diseases",4203.13418084674,1.34727119466283
+"Austria","Peptic ulcer disease",42.97704702013,0.42896335206047
+"Austria","Inflammatory bowel disease",134.38052620687,0.731739368431245
+"Austria","Gallbladder and biliary diseases",5923.79790287783,1.89881215639506
+"Guatemala","Peptic ulcer disease",63.85938932647,0.637394600266194
+"Mexico","Peptic ulcer disease",35.69954516894,0.35632500659084
+"Lesotho","Peptic ulcer disease",121.61894829802,1.21390545310272
+"Mexico","Inflammatory bowel disease",2.09087843778,0.0113854150650694
+"Guatemala","Inflammatory bowel disease",4.96552447471,0.0270386628599794
+"Rwanda","Peptic ulcer disease",86.46810083737,0.863057118934385
+"Guatemala","Gallbladder and biliary diseases",5081.85324989012,1.62893550490966
+"Lesotho","Inflammatory bowel disease",13.32654629068,0.0725667538397644
+"Mexico","Gallbladder and biliary diseases",5862.92185702669,1.87929896945138
+"Ireland","Peptic ulcer disease",27.4164729245,0.273649842015904
+"Lesotho","Gallbladder and biliary diseases",2116.22523726267,0.678334114712495
+"Rwanda","Inflammatory bowel disease",12.77414279568,0.0695587630544905
+"Iceland","Peptic ulcer disease",24.12561582921,0.240803074063551
+"Brunei Darussalam","Peptic ulcer disease",73.6718681179,0.73533510772876
+"Uruguay","Peptic ulcer disease",26.49217516167,0.264424222897405
+"Belgium","Peptic ulcer disease",38.97616948348,0.389029714030362
+"Argentina","Peptic ulcer disease",27.24789831905,0.271967261828572
+"Ireland","Inflammatory bowel disease",164.68379738997,0.896749114581419
+"Sudan","Peptic ulcer disease",75.09014841698,0.749491275112008
+"Iraq","Peptic ulcer disease",46.31586638309,0.462288841947872
+"Rwanda","Gallbladder and biliary diseases",1229.956741166,0.394249913696661
+"Ireland","Gallbladder and biliary diseases",3806.24121591253,1.22005125924966
+"Iceland","Inflammatory bowel disease",196.82263218929,1.0717540155294
+"Uruguay","Inflammatory bowel disease",51.10499893531,0.27828094367658
+"Bahrain","Peptic ulcer disease",77.65964770368,0.775138012232488
+"Brunei Darussalam","Inflammatory bowel disease",11.05766487905,0.060212063037053
+"Iceland","Gallbladder and biliary diseases",5113.49359918206,1.63907749166429
+"Argentina","Inflammatory bowel disease",50.97231868158,0.277558462765036
+"Sudan","Inflammatory bowel disease",29.20889127572,0.159050542946747
+"Uruguay","Gallbladder and biliary diseases",5051.24909481889,1.6191256594966
+"Brunei Darussalam","Gallbladder and biliary diseases",5531.10823474618,1.77293954430326
+"Belgium","Inflammatory bowel disease",114.18394721315,0.621763374330838
+"Sudan","Gallbladder and biliary diseases",2935.24462124785,0.940862308302411
+"Iraq","Inflammatory bowel disease",25.92661860034,0.141177654647409
+"Argentina","Gallbladder and biliary diseases",5099.89036967626,1.63471711712496
+"Iraq","Gallbladder and biliary diseases",2520.85259582034,0.808033230015884
+"Belgium","Gallbladder and biliary diseases",4711.67043297649,1.51027723121962
+"Bahrain","Inflammatory bowel disease",32.58161412776,0.177415957633739
+"Bahrain","Gallbladder and biliary diseases",2598.04531876811,0.832776559062821
+"Bolivia","Peptic ulcer disease",57.7031379979,0.575947702697983
+"Mozambique","Peptic ulcer disease",76.40381692314,0.762603289197915
+"Belize","Peptic ulcer disease",40.32875196473,0.402530137054389
+"Mozambique","Inflammatory bowel disease",10.91746776724,0.0594486507410347
+"Bolivia","Inflammatory bowel disease",11.73735857385,0.0639131843899639
+"Mozambique","Gallbladder and biliary diseases",1287.81657300575,0.412796284431375
+"Kuwait","Inflammatory bowel disease",40.45759638164,0.220302873192902
+"Bolivia","Gallbladder and biliary diseases",5117.35766583101,1.6403160782681
+"Belize","Inflammatory bowel disease",25.02051465569,0.136243666465442
+"Belize","Gallbladder and biliary diseases",3902.28943542614,1.25083852272534
+"Kuwait","Gallbladder and biliary diseases",2373.88069351113,0.760922906650926
